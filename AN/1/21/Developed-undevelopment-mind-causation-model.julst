@@ -1,0 +1,29 @@
+---
+id: AN 1.21 developed undeveloped mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+  ^(:
+    -{
+        (
+          all(
+            "tamed" | "guarded" | "protected" | "restrained"
+          ) 
+          | /"developed/cultivated mind"/
+        ) 
+        "great benefit/happiness"
+    }
+    | 
+    -{
+        (
+          all(
+            "untamed" | "unguarded" | "unprotected" | "unrestrained"
+          ) 
+          | /"undeveloped/uncultivated mind"/
+        ) 
+        "great harm/suffering/stress"
+    }
+  )
+  =]=

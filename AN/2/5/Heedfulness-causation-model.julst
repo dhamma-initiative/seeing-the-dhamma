@@ -1,0 +1,18 @@
+---
+id: AN 2.5 Heedfulness
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+    [
+      (
+        all(
+          :"relentless exertion" | 
+          "discontent with existing skillful qualities" |
+        )
+        | /"heedfulness"/
+      )
+      "unbinding"
+    ]
+  =]=

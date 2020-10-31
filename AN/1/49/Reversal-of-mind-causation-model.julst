@@ -1,0 +1,23 @@
+---
+id: AN 1.48 pliant mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(:
+      (
+        1+(:
+          "belief" |
+          "preference" |
+          "tradition" |
+          "reasoned analogy" |
+          "coming to an agreement through pondering views" |
+        )
+        | /"change in:"/
+      )
+      [:"reversal of mind"] |
+      /"case: Arahant "/ "unbound" /"no attachments to reverse on "/
+    )
+  =]=
+  

@@ -1,0 +1,180 @@
+<svg class="tracks" width="897" height="250" viewBox="0 0 897 250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M817 61h0"></path>
+<path d="M60 61h20"></path>
+<g>
+<path d="M80 61h0"></path>
+<path d="M797 61h0"></path>
+<g>
+<path d="M80 61h0"></path>
+<path d="M581 61h0"></path>
+<rect x="80" y="42" width="501" height="158" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M80 61h10"></path>
+<path d="M571 61h10"></path>
+<path d="M120 61h10"></path>
+<g class="terminal">
+<path d="M130 61h170"></path>
+<path d="M371 61h170"></path>
+<rect x="300" y="50" width="71" height="22" rx="10" ry="10"></rect>
+<text x="335.5" y="65">belief</text>
+</g>
+<path d="M541 61h10"></path>
+<path d="M120 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M130 91h153"></path>
+<path d="M388 91h153"></path>
+<rect x="283" y="80" width="105" height="22" rx="10" ry="10"></rect>
+<text x="335.5" y="95">preference</text>
+</g>
+<path d="M541 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M120 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M130 121h157.25"></path>
+<path d="M383.75 121h157.25"></path>
+<rect x="287.25" y="110" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="335.5" y="125">tradition</text>
+</g>
+<path d="M541 121a10 10 0 0 0 10 -10v-50"></path>
+<path d="M120 61v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M130 151h127.5"></path>
+<path d="M413.5 151h127.5"></path>
+<rect x="257.5" y="140" width="156" height="22" rx="10" ry="10"></rect>
+<text x="335.5" y="155">reasoned analogy</text>
+</g>
+<path d="M541 151a10 10 0 0 0 10 -10v-80"></path>
+<path d="M120 61v110a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M130 181h0"></path>
+<path d="M541 181h0"></path>
+<rect x="130" y="170" width="411" height="22" rx="10" ry="10"></rect>
+<text x="335.5" y="185">coming to an agreement through pondering views</text>
+</g>
+<path d="M541 181a10 10 0 0 0 10 -10v-110"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 120 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="105" y="65" class="diagram-text">1+</text>
+<path d="M 551 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 558 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M80 31h0"></path>
+<path d="M160 31h0"></path>
+<text x="120" y="36" class="comment">change in:</text>
+</g>
+</g>
+<path d="M581 61h10"></path>
+<path d="M591 61h10"></path>
+<g>
+<path d="M601 61h0"></path>
+<path d="M797 61h0"></path>
+<path d="M601 61a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M621 41h156"></path>
+</g>
+<path d="M777 41a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M601 61h20"></path>
+<g class="terminal">
+<path d="M621 61h0"></path>
+<path d="M777 61h0"></path>
+<rect x="621" y="50" width="156" height="22" rx="10" ry="10"></rect>
+<text x="699" y="65">reversal of mind</text>
+</g>
+<path d="M777 61h20"></path>
+</g>
+</g>
+<path d="M797 61h20"></path>
+<path d="M60 61a10 10 0 0 1 10 10v138a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 219h138.25"></path>
+<path d="M658.75 219h138.25"></path>
+<g class="comment">
+<path d="M218.25 219h0"></path>
+<path d="M326.25 219h0"></path>
+<text x="272.25" y="224" class="comment">case: Arahant </text>
+</g>
+<path d="M326.25 219h10"></path>
+<path d="M336.25 219h10"></path>
+<g class="terminal">
+<path d="M346.25 219h0"></path>
+<path d="M425.75 219h0"></path>
+<rect x="346.25" y="208" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="386" y="223">unbound</text>
+</g>
+<path d="M425.75 219h10"></path>
+<path d="M435.75 219h10"></path>
+<g class="comment">
+<path d="M445.75 219h0"></path>
+<path d="M658.75 219h0"></path>
+<text x="552.25" y="224" class="comment">no attachments to reverse on </text>
+</g>
+</g>
+<path d="M797 219a10 10 0 0 0 10 -10v-138a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M817 61h10"></path>
+<path d="M827 61h10"></path>
+<g>
+<path d="M837 61h0"></path>
+<path d="M 837 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

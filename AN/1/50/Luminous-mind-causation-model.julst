@@ -1,0 +1,35 @@
+---
+id: AN 1.50 lumious mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    1+[:
+      ^(
+        :-{
+          all(:
+            "uninstructed run-of-the-mill person"|
+            "defiled by incoming defilements"|
+          )
+        }| 
+        -{
+          (
+            all(:
+              "well-instructed disciple of the noble ones"|
+              "freed by incoming defilements"|
+            )
+            | /"development of the mind"/
+          )
+          [
+            ^(
+              "4th Jhana" |
+              "cessation of perception & feeling - 9th Jhana" |
+            )
+            "luminous mind"
+          ]
+        }| 
+      ) |
+      /"for each conscious moment"/
+    ]
+  =]=

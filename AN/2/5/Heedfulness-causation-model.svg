@@ -1,0 +1,124 @@
+<svg class="tracks" width="772" height="148" viewBox="0 0 772 148" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 30h0"></path>
+<path d="M20 20v20m0 -10h20"></path>
+</g>
+<path d="M40 30h10"></path>
+<path d="M50 30h10"></path>
+<g>
+<path d="M60 30h0"></path>
+<path d="M692 30h0"></path>
+<path d="M60 30h20"></path>
+<g>
+<path d="M80 30h592"></path>
+</g>
+<path d="M672 30h20"></path>
+<path d="M60 30a10 10 0 0 1 10 10v29a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 79h0"></path>
+<path d="M672 79h0"></path>
+<g>
+<path d="M80 79h0"></path>
+<path d="M555.5 79h0"></path>
+<rect x="80" y="60" width="475.5" height="68" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M80 79h10"></path>
+<path d="M545.5 79h10"></path>
+<path d="M120 79h10"></path>
+<g class="terminal">
+<path d="M130 79h102"></path>
+<path d="M413.5 79h102"></path>
+<rect x="232" y="68" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="322.75" y="83">relentless exertion</text>
+</g>
+<path d="M515.5 79h10"></path>
+<path d="M120 79v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M130 109h0"></path>
+<path d="M515.5 109h0"></path>
+<rect x="130" y="98" width="385.5" height="22" rx="10" ry="10"></rect>
+<text x="322.75" y="113">discontent with existing skillful qualities</text>
+</g>
+<path d="M515.5 109a10 10 0 0 0 10 -10v-20"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 120 69 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="105" y="83" class="diagram-text">all</text>
+<path d="M 525.5 69 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 532.5 77 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M80 49h0"></path>
+<path d="M167 49h0"></path>
+<text x="123.5" y="54" class="comment">heedfulness</text>
+</g>
+</g>
+<path d="M555.5 79h10"></path>
+<path d="M565.5 79h10"></path>
+<g class="terminal">
+<path d="M575.5 79h0"></path>
+<path d="M672 79h0"></path>
+<rect x="575.5" y="68" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="623.75" y="83">unbinding</text>
+</g>
+</g>
+<path d="M672 79a10 10 0 0 0 10 -10v-29a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M692 30h10"></path>
+<path d="M702 30h10"></path>
+<g>
+<path d="M712 30h0"></path>
+<path d="M 712 30 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

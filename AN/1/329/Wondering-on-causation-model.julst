@@ -1,0 +1,30 @@
+---
+id: SN 12:35 Wondering on
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^{
+      "ignorance"
+      "fabrications"
+      "consciousness"
+      "name-&-form"
+      "six sense media"
+      "contact"
+      (
+      ^{
+        "feeling"
+        "craving"
+        "clinging/sustenance"
+        "becoming"
+        ( 
+          "birth"
+          "aging-&-death"
+          | /"stress"/
+        )
+      }
+      | /"wondering on"/
+      )
+    }
+  =]=

@@ -1,0 +1,29 @@
+---
+id: AN 1.45 pure impure mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+  ^(:
+    -{
+      "pure mind" 
+      all(:
+        "knows his own benefit" |
+        "knows the benefit of others" |
+        "knows the benefit of both" |
+      )
+      "realises a noble attainment"
+      "acquires noble knowledge & vision"
+    }
+    | 
+    -{
+      "impure mind" 
+      all(:
+        "not knowing his own benefit" |
+        "not knowing the benefit of others" |
+        "not knowing the benefit of both" |
+      )
+    }
+  )
+  =]=

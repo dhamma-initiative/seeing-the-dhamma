@@ -1,0 +1,14 @@
+---
+id: AN 1.48 pliant mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    "developed mind" 
+    (
+      "potential to provoke the six properties" 
+      | /"plaint to supranormal powers"/
+    )
+  =]=
+  
