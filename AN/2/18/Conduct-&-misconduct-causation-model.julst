@@ -8,7 +8,7 @@ notation: |
     ^(
       -{
         (
-          all(:"bodily" | "verbal" | "mental")
+          1+(:"bodily" | "verbal" | "mental")
           | /"misconduct"/
         ) 
         (

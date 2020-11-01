@@ -44,7 +44,7 @@ Therefore, on this site the attention will be on:
 
 ## Organistion
 
-This site has been organised based on the Sutta Pitaka's collections. This site intentially mirrors https://www.dhammatalks.org/suttas/ which has been used as the **_exclusive_** source material. Each suttas may document one or more causation models where applicable.
+This site has been organised based on the Sutta Pitaka's collections. This site intentionally mirrors https://www.dhammatalks.org/suttas/ which has been used as the **_exclusive_** source material. Each suttas may document one or more causation models where applicable.
 
 |Collection|Description|
 |:--|:--|

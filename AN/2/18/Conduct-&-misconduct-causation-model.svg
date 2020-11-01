@@ -45,9 +45,9 @@
 </g>
 <path d="M205.25 121a10 10 0 0 0 10 -10v-50"></path>
 <g class="diagram-text">
-<title>take all branches, once each, in any order</title>
+<title>take one or more branches, once each, in any order</title>
 <path d="M 124.25 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
-<text x="109.25" y="65" class="diagram-text">all</text>
+<text x="109.25" y="65" class="diagram-text">1+</text>
 <path d="M 215.25 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
 <path d="M 222.25 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
 </g>
