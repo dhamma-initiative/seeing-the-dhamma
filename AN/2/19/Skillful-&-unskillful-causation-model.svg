@@ -1,0 +1,107 @@
+<svg class="tracks" width="671" height="111" viewBox="0 0 671 111" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 30h0"></path>
+<path d="M20 20v20m0 -10h20"></path>
+</g>
+<path d="M40 30h10"></path>
+<path d="M50 30h10"></path>
+<g>
+<path d="M60 30h0"></path>
+<path d="M591 30h0"></path>
+<path d="M60 30h20"></path>
+<g>
+<path d="M80 30h491"></path>
+</g>
+<path d="M571 30h20"></path>
+<path d="M60 30a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 50h0"></path>
+<path d="M571 50h0"></path>
+<g>
+<path d="M80 50h0"></path>
+<path d="M361 50h0"></path>
+<path d="M80 50h20"></path>
+<g class="terminal">
+<path d="M100 50h0"></path>
+<path d="M341 50h0"></path>
+<rect x="100" y="39" width="241" height="22" rx="10" ry="10"></rect>
+<text x="220.5" y="54">abandon what is unskillful</text>
+</g>
+<path d="M341 50h20"></path>
+<path d="M80 50a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 80h8.5"></path>
+<path d="M332.5 80h8.5"></path>
+<rect x="108.5" y="69" width="224" height="22" rx="10" ry="10"></rect>
+<text x="220.5" y="84">develop what is skillful</text>
+</g>
+<path d="M341 80a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M361 50h10"></path>
+<path d="M371 50h10"></path>
+<g class="terminal">
+<path d="M381 50h0"></path>
+<path d="M571 50h0"></path>
+<rect x="381" y="39" width="190" height="22" rx="10" ry="10"></rect>
+<text x="476" y="54">benefit and pleasure</text>
+</g>
+</g>
+<path d="M571 50a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M591 30h10"></path>
+<path d="M601 30h10"></path>
+<g>
+<path d="M611 30h0"></path>
+<path d="M 611 30 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

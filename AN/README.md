@@ -10,6 +10,10 @@
 |[For the Benefit of Many People (AN 1:140–141)](./1/140/AN1_140.md)|explain not-Dhamma as not-Dhamma, explain Dhamma as Dhamma, practices for the benefit of others, gains merit, True Dhamma remain|
 |**[Foul-smelling (AN 1:329)](./1/329/AN1_329.md)|ignorance, fabrications, consciousness, name-&-form, six sense media, contact, feeling, craving, clinging/sustenance, becoming, birth, aging-&-death, stress|
 |[Relentlessly (AN 2:5)](./2/5/AN2_5.md)|exertion, discontent with skillful qualities, heedfulness, unbinding|
+|[Guardians of the World (AN 2:9)](./2/9/AN2_9.md)|shame, compunction, recognition of those who deserve respect|
+|[Categorically (AN 2:18)](./2/18/AN2_18.md)|bodily, verbal, mental, misconduct, fault oneself, criticism from the observant, bad reputation, dies confused, reappears in a lower realm, good conduct, praised, good reputation, dies unconfused, reappears in a good destination|
+|[Skillful & Unskillful (AN 2:19)](./2/19/AN2_19.md)|abandon what is unskillful, develop what is skillful, benefit and pleasure|
+|[Fools & Wise People (AN 2:21)](./2/21/AN2_21.md)|doesn't see transgression, doesn't pardon a confessed transgression, fool, sees transgression, pardons a confessed transgression, wise|
 
 Table: Anguttara Nikaya Causation Model catalog
 

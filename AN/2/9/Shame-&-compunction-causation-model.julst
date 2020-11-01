@@ -1,0 +1,15 @@
+---
+id: AN 2.9 shame & compunction
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+    [
+      all(
+        :"shame" | 
+        "compunction" |
+      )
+      "recognition of those who deserve respect"
+    ]
+  =]=

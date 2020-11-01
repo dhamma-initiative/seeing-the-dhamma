@@ -1,0 +1,304 @@
+<svg class="tracks" width="978.5" height="348" viewBox="0 0 978.5 348" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M898.5 61h0"></path>
+<path d="M60 61h20"></path>
+<g>
+<path d="M80 61h4.25"></path>
+<path d="M874.25 61h4.25"></path>
+<g>
+<path d="M84.25 61h0"></path>
+<path d="M245.25 61h0"></path>
+<rect x="84.25" y="42" width="161" height="98" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M84.25 61h10"></path>
+<path d="M235.25 61h10"></path>
+<path d="M124.25 61h10"></path>
+<g class="terminal">
+<path d="M134.25 61h0"></path>
+<path d="M205.25 61h0"></path>
+<rect x="134.25" y="50" width="71" height="22" rx="10" ry="10"></rect>
+<text x="169.75" y="65">bodily</text>
+</g>
+<path d="M205.25 61h10"></path>
+<path d="M124.25 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M134.25 91h0"></path>
+<path d="M205.25 91h0"></path>
+<rect x="134.25" y="80" width="71" height="22" rx="10" ry="10"></rect>
+<text x="169.75" y="95">verbal</text>
+</g>
+<path d="M205.25 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M124.25 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M134.25 121h0"></path>
+<path d="M205.25 121h0"></path>
+<rect x="134.25" y="110" width="71" height="22" rx="10" ry="10"></rect>
+<text x="169.75" y="125">mental</text>
+</g>
+<path d="M205.25 121a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 124.25 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="109.25" y="65" class="diagram-text">all</text>
+<path d="M 215.25 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 222.25 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M84.25 31h0"></path>
+<path d="M164.25 31h0"></path>
+<text x="124.25" y="36" class="comment">misconduct</text>
+</g>
+</g>
+<path d="M245.25 61h10"></path>
+<path d="M255.25 61h10"></path>
+<g>
+<path d="M265.25 61h0"></path>
+<path d="M874.25 61h0"></path>
+<rect x="265.25" y="42" width="609" height="128" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M265.25 61h10"></path>
+<path d="M864.25 61h10"></path>
+<g>
+<path d="M275.25 61h0"></path>
+<path d="M603.25 61h0"></path>
+<path d="M305.25 61h10"></path>
+<g class="terminal">
+<path d="M315.25 61h63.75"></path>
+<path d="M509.5 61h63.75"></path>
+<rect x="379" y="50" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="444.25" y="65">fault oneself</text>
+</g>
+<path d="M573.25 61h10"></path>
+<path d="M305.25 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M315.25 91h0"></path>
+<path d="M573.25 91h0"></path>
+<rect x="315.25" y="80" width="258" height="22" rx="10" ry="10"></rect>
+<text x="444.25" y="95">criticism from the observant</text>
+</g>
+<path d="M573.25 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M305.25 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M315.25 121h59.5"></path>
+<path d="M513.75 121h59.5"></path>
+<rect x="374.75" y="110" width="139" height="22" rx="10" ry="10"></rect>
+<text x="444.25" y="125">bad reputation</text>
+</g>
+<path d="M573.25 121a10 10 0 0 0 10 -10v-50"></path>
+<path d="M305.25 61v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M315.25 151h63.75"></path>
+<path d="M509.5 151h63.75"></path>
+<rect x="379" y="140" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="444.25" y="155">dies confused</text>
+</g>
+<path d="M573.25 151a10 10 0 0 0 10 -10v-80"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 305.25 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="290.25" y="65" class="diagram-text">1+</text>
+<path d="M 583.25 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 590.25 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M603.25 61h10"></path>
+<path d="M613.25 61h10"></path>
+<g class="terminal">
+<path d="M623.25 61h0"></path>
+<path d="M864.25 61h0"></path>
+<rect x="623.25" y="50" width="241" height="22" rx="10" ry="10"></rect>
+<text x="743.75" y="65">reappears in a lower realm</text>
+</g>
+</g>
+<g class="comment">
+<path d="M265.25 31h0"></path>
+<path d="M338.25 31h0"></path>
+<text x="301.75" y="36" class="comment">drawbacks</text>
+</g>
+</g>
+</g>
+<path d="M878.5 61h20"></path>
+<path d="M60 61a10 10 0 0 1 10 10v138a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 219h0"></path>
+<path d="M878.5 219h0"></path>
+<g>
+<path d="M80 219h0"></path>
+<path d="M241 219h0"></path>
+<rect x="80" y="200" width="161" height="98" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M80 219h10"></path>
+<path d="M231 219h10"></path>
+<path d="M120 219h10"></path>
+<g class="terminal">
+<path d="M130 219h0"></path>
+<path d="M201 219h0"></path>
+<rect x="130" y="208" width="71" height="22" rx="10" ry="10"></rect>
+<text x="165.5" y="223">bodily</text>
+</g>
+<path d="M201 219h10"></path>
+<path d="M120 219v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M130 249h0"></path>
+<path d="M201 249h0"></path>
+<rect x="130" y="238" width="71" height="22" rx="10" ry="10"></rect>
+<text x="165.5" y="253">verbal</text>
+</g>
+<path d="M201 249a10 10 0 0 0 10 -10v-20"></path>
+<path d="M120 219v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M130 279h0"></path>
+<path d="M201 279h0"></path>
+<rect x="130" y="268" width="71" height="22" rx="10" ry="10"></rect>
+<text x="165.5" y="283">mental</text>
+</g>
+<path d="M201 279a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 120 209 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="105" y="223" class="diagram-text">all</text>
+<path d="M 211 209 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 218 217 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M80 189h0"></path>
+<path d="M174 189h0"></path>
+<text x="127" y="194" class="comment">good conduct</text>
+</g>
+</g>
+<path d="M241 219h10"></path>
+<path d="M251 219h10"></path>
+<g>
+<path d="M261 219h0"></path>
+<path d="M878.5 219h0"></path>
+<rect x="261" y="200" width="617.5" height="128" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M261 219h10"></path>
+<path d="M868.5 219h10"></path>
+<g>
+<path d="M271 219h0"></path>
+<path d="M565 219h0"></path>
+<path d="M301 219h10"></path>
+<g class="terminal">
+<path d="M311 219h12.75"></path>
+<path d="M522.25 219h12.75"></path>
+<rect x="323.75" y="208" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="423" y="223">doesn't fault oneself</text>
+</g>
+<path d="M535 219h10"></path>
+<path d="M301 219v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M311 249h0"></path>
+<path d="M535 249h0"></path>
+<rect x="311" y="238" width="224" height="22" rx="10" ry="10"></rect>
+<text x="423" y="253">praised by the observant</text>
+</g>
+<path d="M535 249a10 10 0 0 0 10 -10v-20"></path>
+<path d="M301 219v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M311 279h38.25"></path>
+<path d="M496.75 279h38.25"></path>
+<rect x="349.25" y="268" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="423" y="283">good reputation</text>
+</g>
+<path d="M535 279a10 10 0 0 0 10 -10v-50"></path>
+<path d="M301 219v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M311 309h38.25"></path>
+<path d="M496.75 309h38.25"></path>
+<rect x="349.25" y="298" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="423" y="313">dies unconfused</text>
+</g>
+<path d="M535 309a10 10 0 0 0 10 -10v-80"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 301 209 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="286" y="223" class="diagram-text">1+</text>
+<path d="M 545 209 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 552 217 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M565 219h10"></path>
+<path d="M575 219h10"></path>
+<g class="terminal">
+<path d="M585 219h0"></path>
+<path d="M868.5 219h0"></path>
+<rect x="585" y="208" width="283.5" height="22" rx="10" ry="10"></rect>
+<text x="726.75" y="223">reappears in a good destination</text>
+</g>
+</g>
+<g class="comment">
+<path d="M261 189h0"></path>
+<path d="M320 189h0"></path>
+<text x="290.5" y="194" class="comment">rewards</text>
+</g>
+</g>
+</g>
+<path d="M878.5 219a10 10 0 0 0 10 -10v-138a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M898.5 61h10"></path>
+<path d="M908.5 61h10"></path>
+<g>
+<path d="M918.5 61h0"></path>
+<path d="M 918.5 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

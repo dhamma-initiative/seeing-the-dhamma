@@ -1,0 +1,15 @@
+---
+id: AN 2.21 Fools & wise people
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+   [
+      ^(:
+        1+(:"doesn't see his transgression as a transgression" | "doesn't rightfully pardon another who has confessed his transgression" |) "fool"
+        | 
+        1+(:"sees his transgression as a transgression" | "rightfully pardon another who has confessed his transgression" |) "wise"
+      )
+    ]
+  =]=

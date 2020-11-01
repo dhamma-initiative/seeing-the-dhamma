@@ -1,0 +1,114 @@
+<svg class="tracks" width="743.5" height="111" viewBox="0 0 743.5 111" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 30h0"></path>
+<path d="M20 20v20m0 -10h20"></path>
+</g>
+<path d="M40 30h10"></path>
+<path d="M50 30h10"></path>
+<g>
+<path d="M60 30h0"></path>
+<path d="M663.5 30h0"></path>
+<path d="M60 30h20"></path>
+<g>
+<path d="M80 30h563.5"></path>
+</g>
+<path d="M643.5 30h20"></path>
+<path d="M60 30a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 50h0"></path>
+<path d="M643.5 50h0"></path>
+<g>
+<path d="M80 50h0"></path>
+<path d="M263.5 50h0"></path>
+<path d="M110 50h10"></path>
+<g class="terminal">
+<path d="M120 50h25.5"></path>
+<path d="M208 50h25.5"></path>
+<rect x="145.5" y="39" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="176.75" y="54">shame</text>
+</g>
+<path d="M233.5 50h10"></path>
+<path d="M110 50v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M120 80h0"></path>
+<path d="M233.5 80h0"></path>
+<rect x="120" y="69" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="176.75" y="84">compunction</text>
+</g>
+<path d="M233.5 80a10 10 0 0 0 10 -10v-20"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 110 40 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="95" y="54" class="diagram-text">all</text>
+<path d="M 243.5 40 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 250.5 48 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M263.5 50h10"></path>
+<path d="M273.5 50h10"></path>
+<g class="terminal">
+<path d="M283.5 50h0"></path>
+<path d="M643.5 50h0"></path>
+<rect x="283.5" y="39" width="360" height="22" rx="10" ry="10"></rect>
+<text x="463.5" y="54">recognition of those who deserve respect</text>
+</g>
+</g>
+<path d="M643.5 50a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M663.5 30h10"></path>
+<path d="M673.5 30h10"></path>
+<g>
+<path d="M683.5 30h0"></path>
+<path d="M 683.5 30 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

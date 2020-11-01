@@ -1,0 +1,15 @@
+---
+id: AN 2.19 skillful & unskillful
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+   [
+      ^(:
+        "abandon what is unskillful" | 
+        "develop what is skillful" |
+      ) 
+      "benefit and pleasure"
+    ]
+  =]=

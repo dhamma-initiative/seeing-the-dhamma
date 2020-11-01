@@ -1,0 +1,30 @@
+---
+id: AN 2.18 conduct & misconduct
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+    ^(
+      -{
+        (
+          all(:"bodily" | "verbal" | "mental")
+          | /"misconduct"/
+        ) 
+        (
+          1+(:"fault oneself" | "criticism from the observant" | "bad reputation" | "dies confused") "reappears in a lower realm"
+          | /"drawbacks"/
+        ) 
+      } | 
+      -{
+        (
+          all(:"bodily" | "verbal" | "mental")
+          | /"good conduct"/
+        ) 
+        (
+          1+(:"doesn't fault oneself" | "praised by the observant" | "good reputation" | "dies unconfused") "reappears in a good destination"
+          | /"rewards"/
+        ) 
+      } | 
+    )
+  =]=
