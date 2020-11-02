@@ -1,0 +1,20 @@
+---
+id: AN 2.24 slander via meaning
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+   [:
+      ( 
+        ^(:
+          1+(:"explains a discourse whose meaning needs to be inferred as one whose meaning has already been fully drawn out" | 
+          "explains a discourse whose meaning has already been fully drawn out as one whose meaning needs to be inferred" |) 
+        )
+        | /"Anyone who:"/
+      )
+      "slander"
+      "demerit"
+      "long-term harm & suffering"
+    ]
+  =]=

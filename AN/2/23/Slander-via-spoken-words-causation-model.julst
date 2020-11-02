@@ -1,0 +1,20 @@
+---
+id: AN 2.23 slander via spoken words
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+   [:
+      ( 
+        ^(:
+          1+(:"explains what was not said or spoken by the Tathagata as said or spoken by the Tathagata" | 
+          "explains what was said or spoken by the Tathagata as not said or spoken by the Tathagata" |) 
+        )
+        | /"Anyone who:"/
+      )
+      "slander"
+      "demerit"
+      "long-term harm & suffering"
+    ]
+  =]=

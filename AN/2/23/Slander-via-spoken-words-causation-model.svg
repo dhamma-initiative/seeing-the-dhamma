@@ -1,0 +1,146 @@
+<svg class="tracks" width="1538" height="138" viewBox="0 0 1538 138" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 69h0"></path>
+<path d="M20 59v20m0 -10h20"></path>
+</g>
+<path d="M40 69h10"></path>
+<path d="M50 69h10"></path>
+<g>
+<path d="M60 69h0"></path>
+<path d="M1458 69h0"></path>
+<path d="M60 69a10 10 0 0 0 10 -10v-29a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M80 20h1358"></path>
+</g>
+<path d="M1438 20a10 10 0 0 1 10 10v29a10 10 0 0 0 10 10"></path>
+<path d="M60 69h20"></path>
+<g>
+<path d="M80 69h0"></path>
+<path d="M1438 69h0"></path>
+<g>
+<path d="M80 69h0"></path>
+<path d="M978 69h0"></path>
+<rect x="80" y="50" width="898" height="68" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M80 69h10"></path>
+<path d="M968 69h10"></path>
+<path d="M90 69h20"></path>
+<g>
+<path d="M110 69h0"></path>
+<path d="M948 69h0"></path>
+<path d="M140 69h10"></path>
+<g class="terminal">
+<path d="M150 69h0"></path>
+<path d="M918 69h0"></path>
+<rect x="150" y="58" width="768" height="22" rx="10" ry="10"></rect>
+<text x="534" y="73">explains what was not said or spoken by the Tathagata as said or spoken by the Tathagata</text>
+</g>
+<path d="M918 69h10"></path>
+<path d="M140 69v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M150 99h0"></path>
+<path d="M918 99h0"></path>
+<rect x="150" y="88" width="768" height="22" rx="10" ry="10"></rect>
+<text x="534" y="103">explains what was said or spoken by the Tathagata as not said or spoken by the Tathagata</text>
+</g>
+<path d="M918 99a10 10 0 0 0 10 -10v-20"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 140 59 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="125" y="73" class="diagram-text">1+</text>
+<path d="M 928 59 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 935 67 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M948 69h20"></path>
+</g>
+<g class="comment">
+<path d="M80 39h0"></path>
+<path d="M167 39h0"></path>
+<text x="123.5" y="44" class="comment">Anyone who:</text>
+</g>
+</g>
+<path d="M978 69h10"></path>
+<path d="M988 69h10"></path>
+<g class="terminal">
+<path d="M998 69h0"></path>
+<path d="M1077.5 69h0"></path>
+<rect x="998" y="58" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="1037.75" y="73">slander</text>
+</g>
+<path d="M1077.5 69h10"></path>
+<path d="M1087.5 69h10"></path>
+<g class="terminal">
+<path d="M1097.5 69h0"></path>
+<path d="M1177 69h0"></path>
+<rect x="1097.5" y="58" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="1137.25" y="73">demerit</text>
+</g>
+<path d="M1177 69h10"></path>
+<path d="M1187 69h10"></path>
+<g class="terminal">
+<path d="M1197 69h0"></path>
+<path d="M1438 69h0"></path>
+<rect x="1197" y="58" width="241" height="22" rx="10" ry="10"></rect>
+<text x="1317.5" y="73">long-term harm &#38; suffering</text>
+</g>
+</g>
+<path d="M1438 69h20"></path>
+</g>
+<path d="M1458 69h10"></path>
+<path d="M1468 69h10"></path>
+<g>
+<path d="M1478 69h0"></path>
+<path d="M 1478 69 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

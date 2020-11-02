@@ -14,6 +14,8 @@
 |[Categorically (AN 2:18)](./2/18/AN2_18.md)|bodily, verbal, mental, misconduct, fault oneself, criticism from the observant, bad reputation, dies confused, reappears in a lower realm, good conduct, praised, good reputation, dies unconfused, reappears in a good destination|
 |[Skillful & Unskillful (AN 2:19)](./2/19/AN2_19.md)|abandon what is unskillful, develop what is skillful, benefit and pleasure|
 |[Fools & Wise People (AN 2:21)](./2/21/AN2_21.md)|doesn't see transgression, doesn't pardon a confessed transgression, fool, sees transgression, pardons a confessed transgression, wise|
+|**[What Was Not Said (AN 2:23)](./2/23/AN2_23.md)|explains what was not said or spoken by the Tathagata as said or spoken by the Tathagata, explains what was said or spoken by the Tathagata as not said or spoken by the Tathagata, slander, demerit, long-term harm & suffering|
+|**[A Meaning to be Inferred (AN 2:24)](./2/24/AN2_24.md)|explains a discourse whose meaning needs to be inferred as one whose meaning has already been fully drawn out, explains a discourse whose meaning has already been fully drawn out as one whose meaning needs to be inferred, slander, demerit, long-term harm & suffering|
 
 Table: Anguttara Nikaya Causation Model catalog
 
