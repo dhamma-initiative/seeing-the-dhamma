@@ -1,0 +1,172 @@
+<svg class="tracks" width="981" height="220" viewBox="0 0 981 220" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M742 61h0"></path>
+<rect x="60" y="42" width="682" height="158" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M60 61h10"></path>
+<path d="M732 61h10"></path>
+<path d="M70 61h10"></path>
+<g>
+<path d="M80 61h0"></path>
+<path d="M722 61h0"></path>
+<g>
+<path d="M80 61h0"></path>
+<path d="M399.5 61h0"></path>
+<path d="M110 61h10"></path>
+<g class="terminal">
+<path d="M120 61h0"></path>
+<path d="M369.5 61h0"></path>
+<rect x="120" y="50" width="249.5" height="22" rx="10" ry="10"></rect>
+<text x="244.75" y="65">peaceful in sense faculties</text>
+</g>
+<path d="M369.5 61h10"></path>
+<path d="M110 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M120 91h46.75"></path>
+<path d="M322.75 91h46.75"></path>
+<rect x="166.75" y="80" width="156" height="22" rx="10" ry="10"></rect>
+<text x="244.75" y="95">peaceful in mind</text>
+</g>
+<path d="M369.5 91a10 10 0 0 0 10 -10v-20"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 110 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="95" y="65" class="diagram-text">all</text>
+<path d="M 379.5 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 386.5 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M399.5 61h10"></path>
+<path d="M409.5 61h10"></path>
+<g>
+<path d="M419.5 61h0"></path>
+<path d="M722 61h0"></path>
+<path d="M449.5 61h10"></path>
+<g class="terminal">
+<path d="M459.5 61h0"></path>
+<path d="M692 61h0"></path>
+<rect x="459.5" y="50" width="232.5" height="22" rx="10" ry="10"></rect>
+<text x="575.75" y="65">peaceful in bodily action</text>
+</g>
+<path d="M692 61h10"></path>
+<path d="M449.5 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M459.5 91h0"></path>
+<path d="M692 91h0"></path>
+<rect x="459.5" y="80" width="232.5" height="22" rx="10" ry="10"></rect>
+<text x="575.75" y="95">peaceful in verbal action</text>
+</g>
+<path d="M692 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M449.5 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M459.5 121h0"></path>
+<path d="M692 121h0"></path>
+<rect x="459.5" y="110" width="232.5" height="22" rx="10" ry="10"></rect>
+<text x="575.75" y="125">peaceful in mental action</text>
+</g>
+<path d="M692 121a10 10 0 0 0 10 -10v-50"></path>
+<path d="M449.5 61v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M459.5 151h21.25"></path>
+<path d="M670.75 151h21.25"></path>
+<rect x="480.75" y="140" width="190" height="22" rx="10" ry="10"></rect>
+<text x="575.75" y="155">admirable friendship</text>
+</g>
+<path d="M692 151a10 10 0 0 0 10 -10v-80"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 449.5 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="434.5" y="65" class="diagram-text">all</text>
+<path d="M 702 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 709 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+</g>
+<path d="M722 61h10"></path>
+<path d="M80 61a10 10 0 0 0 -10 10v100a10 10 0 0 0 10 10"></path>
+<g class="comment">
+<path d="M80 181h249.5"></path>
+<path d="M472.5 181h249.5"></path>
+<text x="401" y="186" class="comment">whilst fuel remains</text>
+</g>
+<path d="M722 181a10 10 0 0 0 10 -10v-100a10 10 0 0 0 -10 -10"></path>
+<path d="M65 123.5l5 -5l5 5"></path>
+</g>
+<g class="comment">
+<path d="M60 31h0"></path>
+<path d="M133 31h0"></path>
+<text x="96.5" y="36" class="comment">training:</text>
+</g>
+</g>
+<path d="M742 61h10"></path>
+<path d="M752 61h10"></path>
+<g class="terminal">
+<path d="M762 61h0"></path>
+<path d="M901 61h0"></path>
+<rect x="762" y="50" width="139" height="22" rx="10" ry="10"></rect>
+<text x="831.5" y="65">extinguishment</text>
+</g>
+<path d="M901 61h10"></path>
+<path d="M911 61h10"></path>
+<g>
+<path d="M921 61h0"></path>
+<path d="M 921 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

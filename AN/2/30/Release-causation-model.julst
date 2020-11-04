@@ -1,0 +1,14 @@
+---
+id: AN 2.30 Release
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+   [:
+      ^(:
+        1+(:"defiled by passion" | "defiled by ignorance" |) | 
+        1+(: "fading passion" "awareness-release" | "fading of ignorance" "discernment release") |
+      )
+    ]
+  =]=

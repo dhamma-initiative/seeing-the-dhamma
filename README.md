@@ -28,7 +28,7 @@ The Buddha's awakening is briefly outlined in the [Awakening (1) Ud 1:1][2] sutt
 > 
 >> As phenomena grow clear
 >>
->> to the brahman–ardent, in jhāna–
+>> to the brahman–ardent, in jhana–
 >>
 >> his doubts all vanish
 >>

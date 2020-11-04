@@ -1,0 +1,22 @@
+---
+id: AN 2.31-32 Gratitude
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+    ^(:
+      1+(:"ungrateful" | "unthankful" |) "person of no integrity" | 
+      all(: "grateful" | "thankful" |) "person of integrity" 
+        [(
+          1+(
+            "conviction" |
+            "virtue" |
+            "generosity" |
+            "discernment" |
+          )
+          | /"Rouses, settles & establishes another in:"/
+        ) "repays debt"]
+      |
+    )
+  =]=

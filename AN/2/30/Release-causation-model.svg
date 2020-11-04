@@ -1,0 +1,161 @@
+<svg class="tracks" width="673" height="161" viewBox="0 0 673 161" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 40h0"></path>
+<path d="M20 30v20m0 -10h20"></path>
+</g>
+<path d="M40 40h10"></path>
+<path d="M50 40h10"></path>
+<g>
+<path d="M60 40h0"></path>
+<path d="M593 40h0"></path>
+<path d="M60 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M80 20h493"></path>
+</g>
+<path d="M573 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M60 40h20"></path>
+<g>
+<path d="M80 40h0"></path>
+<path d="M573 40h0"></path>
+<path d="M80 40h20"></path>
+<g>
+<path d="M100 40h96.5"></path>
+<path d="M456.5 40h96.5"></path>
+<path d="M226.5 40h10"></path>
+<g class="terminal">
+<path d="M236.5 40h8.5"></path>
+<path d="M418 40h8.5"></path>
+<rect x="245" y="29" width="173" height="22" rx="10" ry="10"></rect>
+<text x="331.5" y="44">defiled by passion</text>
+</g>
+<path d="M426.5 40h10"></path>
+<path d="M226.5 40v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M236.5 70h0"></path>
+<path d="M426.5 70h0"></path>
+<rect x="236.5" y="59" width="190" height="22" rx="10" ry="10"></rect>
+<text x="331.5" y="74">defiled by ignorance</text>
+</g>
+<path d="M426.5 70a10 10 0 0 0 10 -10v-20"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 226.5 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="211.5" y="44" class="diagram-text">1+</text>
+<path d="M 436.5 30 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 443.5 38 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M553 40h20"></path>
+<path d="M80 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M100 100h0"></path>
+<path d="M553 100h0"></path>
+<path d="M130 100h10"></path>
+<g>
+<path d="M140 100h29.75"></path>
+<path d="M493.25 100h29.75"></path>
+<g class="terminal">
+<path d="M169.75 100h0"></path>
+<path d="M308.75 100h0"></path>
+<rect x="169.75" y="89" width="139" height="22" rx="10" ry="10"></rect>
+<text x="239.25" y="104">fading passion</text>
+</g>
+<path d="M308.75 100h10"></path>
+<path d="M318.75 100h10"></path>
+<g class="terminal">
+<path d="M328.75 100h0"></path>
+<path d="M493.25 100h0"></path>
+<rect x="328.75" y="89" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="411" y="104">awareness-release</text>
+</g>
+</g>
+<path d="M523 100h10"></path>
+<path d="M130 100v20a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M140 130h0"></path>
+<path d="M523 130h0"></path>
+<g class="terminal">
+<path d="M140 130h0"></path>
+<path d="M321.5 130h0"></path>
+<rect x="140" y="119" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="230.75" y="134">fading of ignorance</text>
+</g>
+<path d="M321.5 130h10"></path>
+<path d="M331.5 130h10"></path>
+<g class="terminal">
+<path d="M341.5 130h0"></path>
+<path d="M523 130h0"></path>
+<rect x="341.5" y="119" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="432.25" y="134">discernment release</text>
+</g>
+</g>
+<path d="M523 130a10 10 0 0 0 10 -10v-20"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 130 90 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="115" y="104" class="diagram-text">1+</text>
+<path d="M 533 90 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 540 98 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M553 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M573 40h20"></path>
+</g>
+<path d="M593 40h10"></path>
+<path d="M603 40h10"></path>
+<g>
+<path d="M613 40h0"></path>
+<path d="M 613 40 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

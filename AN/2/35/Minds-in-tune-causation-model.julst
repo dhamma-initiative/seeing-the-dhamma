@@ -1,0 +1,25 @@
+---
+id: AN 2.35 minds in tune
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      1+[:
+        all(:
+          "peaceful in sense faculties" |
+          "peaceful in mind" |
+        )
+        all(:
+          "peaceful in bodily action" |
+          "peaceful in verbal action" |
+          "peaceful in mental action" |
+          "admirable friendship" |
+        )
+        | /"whilst fuel remains"/
+      ]
+      | /"training:"/
+    )
+    "extinguishment" 
+  =]=

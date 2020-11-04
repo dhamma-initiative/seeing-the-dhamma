@@ -1,0 +1,15 @@
+---
+id: AN 2.29 clear knowing
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+   [:
+      ^(:
+        all(:"tranquility" "mind is developed" "passion is abandoned" | 
+        "insight" "discernment is developed" "ignorance is abandoned" |) 
+      )
+      "clear knowing"
+    ]
+  =]=

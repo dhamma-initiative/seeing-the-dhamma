@@ -1,0 +1,228 @@
+<svg class="tracks" width="1030" height="269" viewBox="0 0 1030 269" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 31h0"></path>
+<path d="M20 21v20m0 -10h20"></path>
+</g>
+<path d="M40 31h10"></path>
+<path d="M50 31h10"></path>
+<g>
+<path d="M60 31h0"></path>
+<path d="M950 31h0"></path>
+<path d="M60 31h20"></path>
+<g>
+<path d="M80 31h224"></path>
+<path d="M706 31h224"></path>
+<g>
+<path d="M304 31h0"></path>
+<path d="M479 31h0"></path>
+<path d="M334 31h10"></path>
+<g class="terminal">
+<path d="M344 31h0"></path>
+<path d="M449 31h0"></path>
+<rect x="344" y="20" width="105" height="22" rx="10" ry="10"></rect>
+<text x="396.5" y="35">ungrateful</text>
+</g>
+<path d="M449 31h10"></path>
+<path d="M334 31v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M344 61h0"></path>
+<path d="M449 61h0"></path>
+<rect x="344" y="50" width="105" height="22" rx="10" ry="10"></rect>
+<text x="396.5" y="65">unthankful</text>
+</g>
+<path d="M449 61a10 10 0 0 0 10 -10v-20"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 334 21 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="319" y="35" class="diagram-text">1+</text>
+<path d="M 459 21 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 466 29 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M479 31h10"></path>
+<path d="M489 31h10"></path>
+<g class="terminal">
+<path d="M499 31h0"></path>
+<path d="M706 31h0"></path>
+<rect x="499" y="20" width="207" height="22" rx="10" ry="10"></rect>
+<text x="602.5" y="35">person of no integrity</text>
+</g>
+</g>
+<path d="M930 31h20"></path>
+<path d="M60 31a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 91h0"></path>
+<path d="M930 91h0"></path>
+<g>
+<path d="M80 91h0"></path>
+<path d="M238 91h0"></path>
+<path d="M110 91h10"></path>
+<g class="terminal">
+<path d="M120 91h0"></path>
+<path d="M208 91h0"></path>
+<rect x="120" y="80" width="88" height="22" rx="10" ry="10"></rect>
+<text x="164" y="95">grateful</text>
+</g>
+<path d="M208 91h10"></path>
+<path d="M110 91v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M120 121h0"></path>
+<path d="M208 121h0"></path>
+<rect x="120" y="110" width="88" height="22" rx="10" ry="10"></rect>
+<text x="164" y="125">thankful</text>
+</g>
+<path d="M208 121a10 10 0 0 0 10 -10v-20"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 110 81 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="95" y="95" class="diagram-text">all</text>
+<path d="M 218 81 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 225 89 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M238 91h10"></path>
+<path d="M248 91h10"></path>
+<g class="terminal">
+<path d="M258 91h0"></path>
+<path d="M439.5 91h0"></path>
+<rect x="258" y="80" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="348.75" y="95">person of integrity</text>
+</g>
+<path d="M439.5 91h10"></path>
+<path d="M449.5 91h10"></path>
+<g>
+<path d="M459.5 91h0"></path>
+<path d="M930 91h0"></path>
+<path d="M459.5 91h20"></path>
+<g>
+<path d="M479.5 91h430.5"></path>
+</g>
+<path d="M910 91h20"></path>
+<path d="M459.5 91a10 10 0 0 1 10 10v29a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M479.5 140h0"></path>
+<path d="M910 140h0"></path>
+<g>
+<path d="M479.5 140h0"></path>
+<path d="M776.5 140h0"></path>
+<rect x="479.5" y="121" width="297" height="128" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M479.5 140h56.75"></path>
+<path d="M719.75 140h56.75"></path>
+<path d="M566.25 140h10"></path>
+<g class="terminal">
+<path d="M576.25 140h4.25"></path>
+<path d="M685.5 140h4.25"></path>
+<rect x="580.5" y="129" width="105" height="22" rx="10" ry="10"></rect>
+<text x="633" y="144">conviction</text>
+</g>
+<path d="M689.75 140h10"></path>
+<path d="M566.25 140v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M576.25 170h21.25"></path>
+<path d="M668.5 170h21.25"></path>
+<rect x="597.5" y="159" width="71" height="22" rx="10" ry="10"></rect>
+<text x="633" y="174">virtue</text>
+</g>
+<path d="M689.75 170a10 10 0 0 0 10 -10v-20"></path>
+<path d="M566.25 140v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M576.25 200h4.25"></path>
+<path d="M685.5 200h4.25"></path>
+<rect x="580.5" y="189" width="105" height="22" rx="10" ry="10"></rect>
+<text x="633" y="204">generosity</text>
+</g>
+<path d="M689.75 200a10 10 0 0 0 10 -10v-50"></path>
+<path d="M566.25 140v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M576.25 230h0"></path>
+<path d="M689.75 230h0"></path>
+<rect x="576.25" y="219" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="633" y="234">discernment</text>
+</g>
+<path d="M689.75 230a10 10 0 0 0 10 -10v-80"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 566.25 130 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="551.25" y="144" class="diagram-text">1+</text>
+<path d="M 699.75 130 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 706.75 138 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M479.5 110h0"></path>
+<path d="M776.5 110h0"></path>
+<text x="628" y="115" class="comment">Rouses, settles &#38; establishes another in:</text>
+</g>
+</g>
+<path d="M776.5 140h10"></path>
+<path d="M786.5 140h10"></path>
+<g class="terminal">
+<path d="M796.5 140h0"></path>
+<path d="M910 140h0"></path>
+<rect x="796.5" y="129" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="853.25" y="144">repays debt</text>
+</g>
+</g>
+<path d="M910 140a10 10 0 0 0 10 -10v-29a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M930 91a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M950 31h10"></path>
+<path d="M960 31h10"></path>
+<g>
+<path d="M970 31h0"></path>
+<path d="M 970 31 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>
