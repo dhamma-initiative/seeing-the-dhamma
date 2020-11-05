@@ -1,0 +1,13 @@
+---
+id: AN 2.99 fools
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      "stress that others create & offloads" ("burden" | /"embraces"/) |
+      "stress that oneself creates & offloads" ("burden" | /"ignores"/) |
+    )
+    "fool"
+  =]=

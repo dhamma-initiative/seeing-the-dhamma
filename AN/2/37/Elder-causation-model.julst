@@ -1,0 +1,22 @@
+---
+id: AN 2.37 elders
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      ( 
+        "sensuality"
+        | /"passion for:"/
+      )
+      "fool" 
+      "not worthy of respect" |
+      ( 
+        "sensuality"
+        | /"dispassion for:"/
+      )
+      "wise" 
+      "worthy of respect" |
+    )
+  =]=

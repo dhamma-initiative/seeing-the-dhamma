@@ -1,0 +1,87 @@
+---
+id: AN 2.46 bombast & cross-questioning
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      ^(
+        all(
+          ( 
+            ^(
+              "deep in their meaning" | 
+              "transcendent" |
+              "connected with emptiness" |
+            ) |
+            | /"discourse:"/
+          ) |
+          ( 
+            ^(
+            "inappropriate attention" |
+            "doesn't disect meaning" |
+            )
+            | /"listener:"/
+          )
+        )
+        |
+        all(
+          ( 
+            ^(
+              "works of poets" | 
+              "artful in sound/expression" |
+              "work of outsiders" |
+            ) |
+            | /"discourse:"/
+          ) |
+          ( 
+            ^(
+            "appropriate attention" |
+            "doesn't disect meaning" |
+            )
+            | /"listener:"/
+          )
+        )
+      )
+      "bombast"
+      |
+      ^(
+        all(
+          ( 
+            ^(
+              "deep in their meaning" | 
+              "transcendent" |
+              "connected with emptiness" |
+            ) |
+            | /"discourse:"/
+          ) |
+          ( 
+            ^(
+            "disects its meaning" |
+            "appropriate attention" |
+            )
+            | /"listener:"/
+          )
+        )
+        |
+        all(
+          ( 
+            ^(
+              "works of poets" | 
+              "artful in sound/expression" |
+              "work of outsiders" |
+            ) |
+            | /"discourse:"/
+          ) |
+          ( 
+            ^(
+            "disects its meaning" |
+            "inappropriate attention" |
+            )
+            | /"listener:"/
+          )
+        )
+      )
+      "cross-questioning"
+    )
+  =]=

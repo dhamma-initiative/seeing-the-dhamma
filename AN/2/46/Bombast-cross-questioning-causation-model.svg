@@ -1,0 +1,444 @@
+<svg class="tracks" width="775.5" height="936" viewBox="0 0 775.5 936" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M695.5 61h0"></path>
+<path d="M60 61h20"></path>
+<g>
+<path d="M80 61h42.5"></path>
+<path d="M633 61h42.5"></path>
+<g>
+<path d="M122.5 61h0"></path>
+<path d="M533.5 61h0"></path>
+<path d="M122.5 61h20"></path>
+<g>
+<path d="M142.5 61h8.5"></path>
+<path d="M505 61h8.5"></path>
+<path d="M181 61h10"></path>
+<g>
+<path d="M191 61h0"></path>
+<path d="M475 61h0"></path>
+<rect x="191" y="42" width="284" height="98" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M191 61h10"></path>
+<path d="M465 61h10"></path>
+<path d="M201 61h20"></path>
+<g class="terminal">
+<path d="M221 61h12.75"></path>
+<path d="M432.25 61h12.75"></path>
+<rect x="233.75" y="50" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="333" y="65">deep in their meaning</text>
+</g>
+<path d="M445 61h20"></path>
+<path d="M201 61a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M221 91h51"></path>
+<path d="M394 91h51"></path>
+<rect x="272" y="80" width="122" height="22" rx="10" ry="10"></rect>
+<text x="333" y="95">transcendent</text>
+</g>
+<path d="M445 91a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M201 61a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M221 121h0"></path>
+<path d="M445 121h0"></path>
+<rect x="221" y="110" width="224" height="22" rx="10" ry="10"></rect>
+<text x="333" y="125">connected with emptiness</text>
+</g>
+<path d="M445 121a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M191 31h0"></path>
+<path d="M271 31h0"></path>
+<text x="231" y="36" class="comment">discourse:</text>
+</g>
+</g>
+<path d="M475 61h10"></path>
+<path d="M181 61v118a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M191 189h4.25"></path>
+<path d="M470.75 189h4.25"></path>
+<rect x="195.25" y="170" width="275.5" height="68" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M195.25 189h10"></path>
+<path d="M460.75 189h10"></path>
+<path d="M205.25 189h20"></path>
+<g class="terminal">
+<path d="M225.25 189h0"></path>
+<path d="M440.75 189h0"></path>
+<rect x="225.25" y="178" width="215.5" height="22" rx="10" ry="10"></rect>
+<text x="333" y="193">inappropriate attention</text>
+</g>
+<path d="M440.75 189h20"></path>
+<path d="M205.25 189a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M225.25 219h4.25"></path>
+<path d="M436.5 219h4.25"></path>
+<rect x="229.5" y="208" width="207" height="22" rx="10" ry="10"></rect>
+<text x="333" y="223">doesn't disect meaning</text>
+</g>
+<path d="M440.75 219a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M195.25 159h0"></path>
+<path d="M268.25 159h0"></path>
+<text x="231.75" y="164" class="comment">listener:</text>
+</g>
+</g>
+<path d="M475 189a10 10 0 0 0 10 -10v-118"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 181 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="166" y="65" class="diagram-text">all</text>
+<path d="M 485 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 492 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M513.5 61h20"></path>
+<path d="M122.5 61a10 10 0 0 1 10 10v206a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M142.5 287h0"></path>
+<path d="M513.5 287h0"></path>
+<path d="M172.5 287h10"></path>
+<g>
+<path d="M182.5 287h0"></path>
+<path d="M483.5 287h0"></path>
+<rect x="182.5" y="268" width="301" height="98" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M182.5 287h10"></path>
+<path d="M473.5 287h10"></path>
+<path d="M192.5 287h20"></path>
+<g class="terminal">
+<path d="M212.5 287h51"></path>
+<path d="M402.5 287h51"></path>
+<rect x="263.5" y="276" width="139" height="22" rx="10" ry="10"></rect>
+<text x="333" y="291">works of poets</text>
+</g>
+<path d="M453.5 287h20"></path>
+<path d="M192.5 287a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M212.5 317h0"></path>
+<path d="M453.5 317h0"></path>
+<rect x="212.5" y="306" width="241" height="22" rx="10" ry="10"></rect>
+<text x="333" y="321">artful in sound/expression</text>
+</g>
+<path d="M453.5 317a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M192.5 287a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M212.5 347h38.25"></path>
+<path d="M415.25 347h38.25"></path>
+<rect x="250.75" y="336" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="333" y="351">work of outsiders</text>
+</g>
+<path d="M453.5 347a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M182.5 257h0"></path>
+<path d="M262.5 257h0"></path>
+<text x="222.5" y="262" class="comment">discourse:</text>
+</g>
+</g>
+<path d="M483.5 287h10"></path>
+<path d="M172.5 287v118a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M182.5 415h17"></path>
+<path d="M466.5 415h17"></path>
+<rect x="199.5" y="396" width="267" height="68" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M199.5 415h10"></path>
+<path d="M456.5 415h10"></path>
+<path d="M209.5 415h20"></path>
+<g class="terminal">
+<path d="M229.5 415h4.25"></path>
+<path d="M432.25 415h4.25"></path>
+<rect x="233.75" y="404" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="333" y="419">appropriate attention</text>
+</g>
+<path d="M436.5 415h20"></path>
+<path d="M209.5 415a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M229.5 445h0"></path>
+<path d="M436.5 445h0"></path>
+<rect x="229.5" y="434" width="207" height="22" rx="10" ry="10"></rect>
+<text x="333" y="449">doesn't disect meaning</text>
+</g>
+<path d="M436.5 445a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M199.5 385h0"></path>
+<path d="M272.5 385h0"></path>
+<text x="236" y="390" class="comment">listener:</text>
+</g>
+</g>
+<path d="M483.5 415a10 10 0 0 0 10 -10v-118"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 172.5 277 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="157.5" y="291" class="diagram-text">all</text>
+<path d="M 493.5 277 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 500.5 285 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M513.5 287a10 10 0 0 0 10 -10v-206a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M533.5 61h10"></path>
+<path d="M543.5 61h10"></path>
+<g class="terminal">
+<path d="M553.5 61h0"></path>
+<path d="M633 61h0"></path>
+<rect x="553.5" y="50" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="593.25" y="65">bombast</text>
+</g>
+</g>
+<path d="M675.5 61h20"></path>
+<path d="M60 61a10 10 0 0 1 10 10v432a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 513h0"></path>
+<path d="M675.5 513h0"></path>
+<g>
+<path d="M80 513h0"></path>
+<path d="M491 513h0"></path>
+<path d="M80 513h20"></path>
+<g>
+<path d="M100 513h8.5"></path>
+<path d="M462.5 513h8.5"></path>
+<path d="M138.5 513h10"></path>
+<g>
+<path d="M148.5 513h0"></path>
+<path d="M432.5 513h0"></path>
+<rect x="148.5" y="494" width="284" height="98" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M148.5 513h10"></path>
+<path d="M422.5 513h10"></path>
+<path d="M158.5 513h20"></path>
+<g class="terminal">
+<path d="M178.5 513h12.75"></path>
+<path d="M389.75 513h12.75"></path>
+<rect x="191.25" y="502" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="517">deep in their meaning</text>
+</g>
+<path d="M402.5 513h20"></path>
+<path d="M158.5 513a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M178.5 543h51"></path>
+<path d="M351.5 543h51"></path>
+<rect x="229.5" y="532" width="122" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="547">transcendent</text>
+</g>
+<path d="M402.5 543a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M158.5 513a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M178.5 573h0"></path>
+<path d="M402.5 573h0"></path>
+<rect x="178.5" y="562" width="224" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="577">connected with emptiness</text>
+</g>
+<path d="M402.5 573a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M148.5 483h0"></path>
+<path d="M228.5 483h0"></path>
+<text x="188.5" y="488" class="comment">discourse:</text>
+</g>
+</g>
+<path d="M432.5 513h10"></path>
+<path d="M138.5 513v118a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M148.5 641h12.75"></path>
+<path d="M419.75 641h12.75"></path>
+<rect x="161.25" y="622" width="258.5" height="68" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M161.25 641h10"></path>
+<path d="M409.75 641h10"></path>
+<path d="M171.25 641h20"></path>
+<g class="terminal">
+<path d="M191.25 641h8.5"></path>
+<path d="M381.25 641h8.5"></path>
+<rect x="199.75" y="630" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="645">disects its meaning</text>
+</g>
+<path d="M389.75 641h20"></path>
+<path d="M171.25 641a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M191.25 671h0"></path>
+<path d="M389.75 671h0"></path>
+<rect x="191.25" y="660" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="675">appropriate attention</text>
+</g>
+<path d="M389.75 671a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M161.25 611h0"></path>
+<path d="M234.25 611h0"></path>
+<text x="197.75" y="616" class="comment">listener:</text>
+</g>
+</g>
+<path d="M432.5 641a10 10 0 0 0 10 -10v-118"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 138.5 503 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="123.5" y="517" class="diagram-text">all</text>
+<path d="M 442.5 503 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 449.5 511 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M471 513h20"></path>
+<path d="M80 513a10 10 0 0 1 10 10v206a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M100 739h0"></path>
+<path d="M471 739h0"></path>
+<path d="M130 739h10"></path>
+<g>
+<path d="M140 739h0"></path>
+<path d="M441 739h0"></path>
+<rect x="140" y="720" width="301" height="98" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M140 739h10"></path>
+<path d="M431 739h10"></path>
+<path d="M150 739h20"></path>
+<g class="terminal">
+<path d="M170 739h51"></path>
+<path d="M360 739h51"></path>
+<rect x="221" y="728" width="139" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="743">works of poets</text>
+</g>
+<path d="M411 739h20"></path>
+<path d="M150 739a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M170 769h0"></path>
+<path d="M411 769h0"></path>
+<rect x="170" y="758" width="241" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="773">artful in sound/expression</text>
+</g>
+<path d="M411 769a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M150 739a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M170 799h38.25"></path>
+<path d="M372.75 799h38.25"></path>
+<rect x="208.25" y="788" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="803">work of outsiders</text>
+</g>
+<path d="M411 799a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M140 709h0"></path>
+<path d="M220 709h0"></path>
+<text x="180" y="714" class="comment">discourse:</text>
+</g>
+</g>
+<path d="M441 739h10"></path>
+<path d="M130 739v118a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M140 867h12.75"></path>
+<path d="M428.25 867h12.75"></path>
+<rect x="152.75" y="848" width="275.5" height="68" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M152.75 867h10"></path>
+<path d="M418.25 867h10"></path>
+<path d="M162.75 867h20"></path>
+<g class="terminal">
+<path d="M182.75 867h17"></path>
+<path d="M381.25 867h17"></path>
+<rect x="199.75" y="856" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="871">disects its meaning</text>
+</g>
+<path d="M398.25 867h20"></path>
+<path d="M162.75 867a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M182.75 897h0"></path>
+<path d="M398.25 897h0"></path>
+<rect x="182.75" y="886" width="215.5" height="22" rx="10" ry="10"></rect>
+<text x="290.5" y="901">inappropriate attention</text>
+</g>
+<path d="M398.25 897a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<g class="comment">
+<path d="M152.75 837h0"></path>
+<path d="M225.75 837h0"></path>
+<text x="189.25" y="842" class="comment">listener:</text>
+</g>
+</g>
+<path d="M441 867a10 10 0 0 0 10 -10v-118"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 130 729 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="115" y="743" class="diagram-text">all</text>
+<path d="M 451 729 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 458 737 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M471 739a10 10 0 0 0 10 -10v-206a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M491 513h10"></path>
+<path d="M501 513h10"></path>
+<g class="terminal">
+<path d="M511 513h0"></path>
+<path d="M675.5 513h0"></path>
+<rect x="511" y="502" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="593.25" y="517">cross-questioning</text>
+</g>
+</g>
+<path d="M675.5 513a10 10 0 0 0 10 -10v-432a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M695.5 61h10"></path>
+<path d="M705.5 61h10"></path>
+<g>
+<path d="M715.5 61h0"></path>
+<path d="M 715.5 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

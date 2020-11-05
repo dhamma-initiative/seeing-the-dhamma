@@ -1,0 +1,114 @@
+<svg class="tracks" width="492.5" height="130" viewBox="0 0 492.5 130" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M330 61h0"></path>
+<path d="M60 61h20"></path>
+<g>
+<path d="M80 61h40"></path>
+<path d="M270 61h40"></path>
+<rect x="120" y="42" width="150" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="terminal">
+<path d="M120 61h31"></path>
+<path d="M239 61h31"></path>
+<rect x="151" y="50" width="88" height="22" rx="10" ry="10"></rect>
+<text x="195" y="65">kindness</text>
+</g>
+<g class="comment">
+<path d="M120 31h0"></path>
+<path d="M270 31h0"></path>
+<text x="195" y="36" class="comment">1st to do an act of:</text>
+</g>
+</g>
+<path d="M310 61h20"></path>
+<path d="M60 61a10 10 0 0 1 10 10v18a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 99h0"></path>
+<path d="M310 99h0"></path>
+<g class="terminal">
+<path d="M80 99h0"></path>
+<path d="M176.5 99h0"></path>
+<rect x="80" y="88" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="128.25" y="103">gratitude</text>
+</g>
+<path d="M176.5 99h10"></path>
+<path d="M186.5 99h10"></path>
+<g class="terminal">
+<path d="M196.5 99h0"></path>
+<path d="M310 99h0"></path>
+<rect x="196.5" y="88" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="253.25" y="103">repays debt</text>
+</g>
+</g>
+<path d="M310 99a10 10 0 0 0 10 -10v-18a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M330 61h10"></path>
+<path d="M340 61h10"></path>
+<g class="terminal">
+<path d="M350 61h0"></path>
+<path d="M412.5 61h0"></path>
+<rect x="350" y="50" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="381.25" y="65">merit</text>
+</g>
+<path d="M412.5 61h10"></path>
+<path d="M422.5 61h10"></path>
+<g>
+<path d="M432.5 61h0"></path>
+<path d="M 432.5 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

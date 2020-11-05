@@ -1,0 +1,13 @@
+---
+id: AN 2.118 hard to find
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      ("kindness" | /"1st to do an act of:"/) |
+      "gratitude" "repays debt" |
+    )
+    "merit"
+  =]=

@@ -1,0 +1,18 @@
+---
+id: AN 2.356 disputes
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    [:
+      ( 
+        ^(
+          "sensuality" |
+          "views"
+        )
+        | /"passion for:"/
+      )
+      "disputes"
+    ]
+  =]=

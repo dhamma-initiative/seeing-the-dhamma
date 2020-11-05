@@ -16,6 +16,15 @@
 |[Fools & Wise People (AN 2:21)](./2/21/AN2_21.md)|doesn't see transgression, doesn't pardon a confessed transgression, fool, sees transgression, pardons a confessed transgression, wise|
 |**[What Was Not Said (AN 2:23)](./2/23/AN2_23.md)|explains what was not said or spoken by the Tathagata as said or spoken by the Tathagata, explains what was said or spoken by the Tathagata as not said or spoken by the Tathagata, slander, demerit, long-term harm & suffering|
 |**[A Meaning to be Inferred (AN 2:24)](./2/24/AN2_24.md)|explains a discourse whose meaning needs to be inferred as one whose meaning has already been fully drawn out, explains a discourse whose meaning has already been fully drawn out as one whose meaning needs to be inferred, slander, demerit, long-term harm & suffering|
+|[A Share in Clear Knowing (AN 2:29)](./2/29/AN2_29.md)|tranquility, mind is developed, passion is abandoned, insight, discernment is developed, ignorance is abandoned, clear knowing|
+|[Release (AN 2:30)](./2/30/AN2_30.md)|defiled by passion, defiled by ignorance, fading passion, awareness-release, fading of ignorance, discernment release|
+|[Gratitude (AN 2:31–32)](./2/31/AN2_31.md)|ungrateful, unthankful, person of no integrity, grateful, thankful, person of integrity, conviction, virtue, generosity, discernment, repays debt|
+|**[Minds in Tune (AN 2:35)](./2/35/AN2_35.md)|peaceful in sense faculties, peaceful in mind, peaceful in bodily action, peaceful in verbal action, peaceful in mental action, admirable friendship|
+|[To Aramadanda (AN 2:36)](./2/36/AN2_36.md)|sensuality, views, disputes|
+|[To Kandarayana (AN 2:37)](./2/37/AN2_37.md)|sensuality, fool, not worthy of respect, wise, worthy of respect|
+|[Bombast (AN 2:46)](./2/46/AN2_46.md)|discourse, deep in their meaning, transcendent, connected with emptiness, inappropriate attention. doesn't disect meaning, works of poets, artful in sound/expression, work of outsiders, appropriate attention, bombast, cross-questioning|
+|[Fools (AN 2:99)](./2/99/AN2_99.md)|kindness|
+|**[Hard to Find (AN 2:118)](./2/118/AN2_118.md)|kindness, gratitude, repays debt, merit|
 
 Table: Anguttara Nikaya Causation Model catalog
 

@@ -1,0 +1,144 @@
+<svg class="tracks" width="597.5" height="168" viewBox="0 0 597.5 168" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M517.5 61h0"></path>
+<path d="M60 61h20"></path>
+<g>
+<path d="M80 61h0"></path>
+<path d="M497.5 61h0"></path>
+<g>
+<path d="M80 61h0"></path>
+<path d="M205 61h0"></path>
+<rect x="80" y="42" width="125" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="terminal">
+<path d="M80 61h10"></path>
+<path d="M195 61h10"></path>
+<rect x="90" y="50" width="105" height="22" rx="10" ry="10"></rect>
+<text x="142.5" y="65">sensuality</text>
+</g>
+<g class="comment">
+<path d="M80 31h0"></path>
+<path d="M174 31h0"></path>
+<text x="127" y="36" class="comment">passion for:</text>
+</g>
+</g>
+<path d="M205 61h10"></path>
+<path d="M215 61h10"></path>
+<g class="terminal">
+<path d="M225 61h0"></path>
+<path d="M279 61h0"></path>
+<rect x="225" y="50" width="54" height="22" rx="10" ry="10"></rect>
+<text x="252" y="65">fool</text>
+</g>
+<path d="M279 61h10"></path>
+<path d="M289 61h10"></path>
+<g class="terminal">
+<path d="M299 61h0"></path>
+<path d="M497.5 61h0"></path>
+<rect x="299" y="50" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="398.25" y="65">not worthy of respect</text>
+</g>
+</g>
+<path d="M497.5 61h20"></path>
+<path d="M60 61a10 10 0 0 1 10 10v48a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 129h17"></path>
+<path d="M480.5 129h17"></path>
+<g>
+<path d="M97 129h0"></path>
+<path d="M222 129h0"></path>
+<rect x="97" y="110" width="125" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="terminal">
+<path d="M97 129h10"></path>
+<path d="M212 129h10"></path>
+<rect x="107" y="118" width="105" height="22" rx="10" ry="10"></rect>
+<text x="159.5" y="133">sensuality</text>
+</g>
+<g class="comment">
+<path d="M97 99h0"></path>
+<path d="M212 99h0"></path>
+<text x="154.5" y="104" class="comment">dispassion for:</text>
+</g>
+</g>
+<path d="M222 129h10"></path>
+<path d="M232 129h10"></path>
+<g class="terminal">
+<path d="M242 129h0"></path>
+<path d="M296 129h0"></path>
+<rect x="242" y="118" width="54" height="22" rx="10" ry="10"></rect>
+<text x="269" y="133">wise</text>
+</g>
+<path d="M296 129h10"></path>
+<path d="M306 129h10"></path>
+<g class="terminal">
+<path d="M316 129h0"></path>
+<path d="M480.5 129h0"></path>
+<rect x="316" y="118" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="398.25" y="133">worthy of respect</text>
+</g>
+</g>
+<path d="M497.5 129a10 10 0 0 0 10 -10v-48a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M517.5 61h10"></path>
+<path d="M527.5 61h10"></path>
+<g>
+<path d="M537.5 61h0"></path>
+<path d="M 537.5 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

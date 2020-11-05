@@ -1,0 +1,136 @@
+<svg class="tracks" width="708" height="168" viewBox="0 0 708 168" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M554 61h0"></path>
+<path d="M60 61h20"></path>
+<g>
+<path d="M80 61h8.5"></path>
+<path d="M525.5 61h8.5"></path>
+<g class="terminal">
+<path d="M88.5 61h0"></path>
+<path d="M414.5 61h0"></path>
+<rect x="88.5" y="50" width="326" height="22" rx="10" ry="10"></rect>
+<text x="251.5" y="65">stress that others create &#38; offloads</text>
+</g>
+<path d="M414.5 61h10"></path>
+<path d="M424.5 61h10"></path>
+<g>
+<path d="M434.5 61h0"></path>
+<path d="M525.5 61h0"></path>
+<rect x="434.5" y="42" width="91" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="terminal">
+<path d="M434.5 61h10"></path>
+<path d="M515.5 61h10"></path>
+<rect x="444.5" y="50" width="71" height="22" rx="10" ry="10"></rect>
+<text x="480" y="65">burden</text>
+</g>
+<g class="comment">
+<path d="M434.5 31h0"></path>
+<path d="M500.5 31h0"></path>
+<text x="467.5" y="36" class="comment">embraces</text>
+</g>
+</g>
+</g>
+<path d="M534 61h20"></path>
+<path d="M60 61a10 10 0 0 1 10 10v48a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 129h0"></path>
+<path d="M534 129h0"></path>
+<g class="terminal">
+<path d="M80 129h0"></path>
+<path d="M423 129h0"></path>
+<rect x="80" y="118" width="343" height="22" rx="10" ry="10"></rect>
+<text x="251.5" y="133">stress that oneself creates &#38; offloads</text>
+</g>
+<path d="M423 129h10"></path>
+<path d="M433 129h10"></path>
+<g>
+<path d="M443 129h0"></path>
+<path d="M534 129h0"></path>
+<rect x="443" y="110" width="91" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="terminal">
+<path d="M443 129h10"></path>
+<path d="M524 129h10"></path>
+<rect x="453" y="118" width="71" height="22" rx="10" ry="10"></rect>
+<text x="488.5" y="133">burden</text>
+</g>
+<g class="comment">
+<path d="M443 99h0"></path>
+<path d="M502 99h0"></path>
+<text x="472.5" y="104" class="comment">ignores</text>
+</g>
+</g>
+</g>
+<path d="M534 129a10 10 0 0 0 10 -10v-48a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M554 61h10"></path>
+<path d="M564 61h10"></path>
+<g class="terminal">
+<path d="M574 61h0"></path>
+<path d="M628 61h0"></path>
+<rect x="574" y="50" width="54" height="22" rx="10" ry="10"></rect>
+<text x="601" y="65">fool</text>
+</g>
+<path d="M628 61h10"></path>
+<path d="M638 61h10"></path>
+<g>
+<path d="M648 61h0"></path>
+<path d="M 648 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>
