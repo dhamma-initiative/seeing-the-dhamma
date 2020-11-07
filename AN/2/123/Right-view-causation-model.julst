@@ -1,0 +1,13 @@
+---
+id: AN 2.123 right view
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    "voice of another"
+    ^(
+      "inappropriate attention" "wrong view" |
+      "appropriate attention" "right view" |
+    )
+  =]=

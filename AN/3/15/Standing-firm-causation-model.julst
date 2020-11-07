@@ -1,0 +1,28 @@
+---
+id: AN 3.15 standing firm
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      (
+        1+(:
+          "crookedness, faults, & flaws of bodily action" | 
+          "crookedness, faults, & flaws of verbal action" | 
+          "crookedness, faults, & flaws of mental action" | 
+        )
+        | /"not abandoned"/
+      )
+      "falls away from this Dhamma & Vinaya" |
+      (
+        all(:
+          "crookedness, faults, & flaws of bodily action" | 
+          "crookedness, faults, & flaws of verbal action" | 
+          "crookedness, faults, & flaws of mental action" | 
+        )
+        | /"abandoned"/
+      )
+      "stands form in this Dhamma & Vinaya" |
+    )
+  =]=

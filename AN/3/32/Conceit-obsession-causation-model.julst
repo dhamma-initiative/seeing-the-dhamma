@@ -1,0 +1,29 @@
+---
+id: AN 3.32 Conceit obsession
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ( 
+      all(:
+        "pacification of all fabrications" |
+        "relinquishing of all acquisitions" |
+        all(:
+          "ending of craving" |
+          "dispassion" |
+          "cessation" |
+          "unbinding" |
+        )
+      )
+      | /"percipient of:"/
+    )
+    1+[:
+      "conceit obsession"
+      | /"body & all external themes"/
+    ]
+    all(:
+      "awareness release" |
+      "discernment release" |
+    )
+  =]=

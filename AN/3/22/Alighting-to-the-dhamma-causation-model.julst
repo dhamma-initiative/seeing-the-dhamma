@@ -1,0 +1,16 @@
+---
+id: AN 3.22 Alighting to the dhamma
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    1+[:
+      ^(
+        ["hears the Dhamma"]
+        ["skillful qualities"] |
+
+        ("hears the Dhamma" | /"only if:"/) "skillful qualities"
+      )
+    ]
+  =]=

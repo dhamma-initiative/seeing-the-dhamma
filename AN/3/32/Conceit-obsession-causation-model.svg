@@ -1,0 +1,197 @@
+<svg class="tracks" width="1034" height="250" viewBox="0 0 1034 250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M450.5 61h0"></path>
+<rect x="60" y="42" width="390.5" height="188" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M60 61h10"></path>
+<path d="M440.5 61h10"></path>
+<path d="M100 61h10"></path>
+<g class="terminal">
+<path d="M110 61h4.25"></path>
+<path d="M406.25 61h4.25"></path>
+<rect x="114.25" y="50" width="292" height="22" rx="10" ry="10"></rect>
+<text x="260.25" y="65">pacification of all fabrications</text>
+</g>
+<path d="M410.5 61h10"></path>
+<path d="M100 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M110 91h0"></path>
+<path d="M410.5 91h0"></path>
+<rect x="110" y="80" width="300.5" height="22" rx="10" ry="10"></rect>
+<text x="260.25" y="95">relinquishing of all acquisitions</text>
+</g>
+<path d="M410.5 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M100 61v50a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M110 121h33"></path>
+<path d="M377.5 121h33"></path>
+<path d="M173 121h10"></path>
+<g class="terminal">
+<path d="M183 121h0"></path>
+<path d="M347.5 121h0"></path>
+<rect x="183" y="110" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="265.25" y="125">ending of craving</text>
+</g>
+<path d="M347.5 121h10"></path>
+<path d="M173 121v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M183 151h29.75"></path>
+<path d="M317.75 151h29.75"></path>
+<rect x="212.75" y="140" width="105" height="22" rx="10" ry="10"></rect>
+<text x="265.25" y="155">dispassion</text>
+</g>
+<path d="M347.5 151a10 10 0 0 0 10 -10v-20"></path>
+<path d="M173 121v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M183 181h34"></path>
+<path d="M313.5 181h34"></path>
+<rect x="217" y="170" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="265.25" y="185">cessation</text>
+</g>
+<path d="M347.5 181a10 10 0 0 0 10 -10v-50"></path>
+<path d="M173 121v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M183 211h34"></path>
+<path d="M313.5 211h34"></path>
+<rect x="217" y="200" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="265.25" y="215">unbinding</text>
+</g>
+<path d="M347.5 211a10 10 0 0 0 10 -10v-80"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 173 111 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="158" y="125" class="diagram-text">all</text>
+<path d="M 357.5 111 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 364.5 119 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M410.5 121a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 100 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="85" y="65" class="diagram-text">all</text>
+<path d="M 420.5 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 427.5 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M60 31h0"></path>
+<path d="M168 31h0"></path>
+<text x="114" y="36" class="comment">percipient of:</text>
+</g>
+</g>
+<path d="M450.5 61h10"></path>
+<path d="M460.5 61h10"></path>
+<g>
+<path d="M470.5 61h0"></path>
+<path d="M682.5 61h0"></path>
+<path d="M470.5 61h10"></path>
+<g class="terminal">
+<path d="M480.5 61h13.75"></path>
+<path d="M658.75 61h13.75"></path>
+<rect x="494.25" y="50" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="576.5" y="65">conceit obsession</text>
+</g>
+<path d="M672.5 61h10"></path>
+<path d="M480.5 61a10 10 0 0 0 -10 10v10a10 10 0 0 0 10 10"></path>
+<g class="comment">
+<path d="M480.5 91h0"></path>
+<path d="M672.5 91h0"></path>
+<text x="576.5" y="96" class="comment">body &#38; all external themes</text>
+</g>
+<path d="M672.5 91a10 10 0 0 0 10 -10v-10a10 10 0 0 0 -10 -10"></path>
+<path d="M465.5 78.5l5 -5l5 5"></path>
+</g>
+<path d="M682.5 61h10"></path>
+<path d="M692.5 61h10"></path>
+<g>
+<path d="M702.5 61h0"></path>
+<path d="M954 61h0"></path>
+<path d="M732.5 61h10"></path>
+<g class="terminal">
+<path d="M742.5 61h8.5"></path>
+<path d="M915.5 61h8.5"></path>
+<rect x="751" y="50" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="833.25" y="65">awareness release</text>
+</g>
+<path d="M924 61h10"></path>
+<path d="M732.5 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M742.5 91h0"></path>
+<path d="M924 91h0"></path>
+<rect x="742.5" y="80" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="833.25" y="95">discernment release</text>
+</g>
+<path d="M924 91a10 10 0 0 0 10 -10v-20"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 732.5 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="717.5" y="65" class="diagram-text">all</text>
+<path d="M 934 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 941 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M954 61h10"></path>
+<path d="M964 61h10"></path>
+<g>
+<path d="M974 61h0"></path>
+<path d="M 974 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

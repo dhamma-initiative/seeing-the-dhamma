@@ -1,0 +1,152 @@
+<svg class="tracks" width="629" height="157" viewBox="0 0 629 157" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 30h0"></path>
+<path d="M20 20v20m0 -10h20"></path>
+</g>
+<path d="M40 30h10"></path>
+<path d="M50 30h10"></path>
+<g>
+<path d="M60 30h0"></path>
+<path d="M549 30h0"></path>
+<path d="M60 30h10"></path>
+<g>
+<path d="M70 30h0"></path>
+<path d="M539 30h0"></path>
+<path d="M70 30h20"></path>
+<g>
+<path d="M90 30h0"></path>
+<path d="M519 30h0"></path>
+<g>
+<path d="M90 30h0"></path>
+<path d="M286 30h0"></path>
+<path d="M90 30h20"></path>
+<g>
+<path d="M110 30h156"></path>
+</g>
+<path d="M266 30h20"></path>
+<path d="M90 30a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M110 50h0"></path>
+<path d="M266 50h0"></path>
+<rect x="110" y="39" width="156" height="22" rx="10" ry="10"></rect>
+<text x="188" y="54">hears the Dhamma</text>
+</g>
+<path d="M266 50a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M286 30h10"></path>
+<path d="M296 30h10"></path>
+<g>
+<path d="M306 30h0"></path>
+<path d="M519 30h0"></path>
+<path d="M306 30h20"></path>
+<g>
+<path d="M326 30h173"></path>
+</g>
+<path d="M499 30h20"></path>
+<path d="M306 30a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M326 50h0"></path>
+<path d="M499 50h0"></path>
+<rect x="326" y="39" width="173" height="22" rx="10" ry="10"></rect>
+<text x="412.5" y="54">skillful qualities</text>
+</g>
+<path d="M499 50a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M519 30h20"></path>
+<path d="M70 30a10 10 0 0 1 10 10v60a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M90 110h30"></path>
+<path d="M489 110h30"></path>
+<g>
+<path d="M120 110h0"></path>
+<path d="M296 110h0"></path>
+<rect x="120" y="91" width="176" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="terminal">
+<path d="M120 110h10"></path>
+<path d="M286 110h10"></path>
+<rect x="130" y="99" width="156" height="22" rx="10" ry="10"></rect>
+<text x="208" y="114">hears the Dhamma</text>
+</g>
+<g class="comment">
+<path d="M120 80h0"></path>
+<path d="M186 80h0"></path>
+<text x="153" y="85" class="comment">only if:</text>
+</g>
+</g>
+<path d="M296 110h10"></path>
+<path d="M306 110h10"></path>
+<g class="terminal">
+<path d="M316 110h0"></path>
+<path d="M489 110h0"></path>
+<rect x="316" y="99" width="173" height="22" rx="10" ry="10"></rect>
+<text x="402.5" y="114">skillful qualities</text>
+</g>
+</g>
+<path d="M519 110a10 10 0 0 0 10 -10v-60a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M539 30h10"></path>
+<path d="M70 30a10 10 0 0 0 -10 10v87a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M70 137h469"></path>
+</g>
+<path d="M539 137a10 10 0 0 0 10 -10v-87a10 10 0 0 0 -10 -10"></path>
+<path d="M55 86l5 -5l5 5"></path>
+</g>
+<path d="M549 30h10"></path>
+<path d="M559 30h10"></path>
+<g>
+<path d="M569 30h0"></path>
+<path d="M 569 30 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

@@ -1,0 +1,22 @@
+---
+id: AN 3.2 Characterised by action
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      1+(:
+        "bodily misconduct" | 
+        "verbal misconduct" | 
+        "mental misconduct"
+      )
+      "fool" |
+      all(:
+        "good bodily conduct" | 
+        "good verbal conduct" | 
+        "good mental conduct"
+      )
+      "wise" |
+    )
+  =]=

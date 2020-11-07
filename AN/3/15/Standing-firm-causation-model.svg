@@ -1,0 +1,186 @@
+<svg class="tracks" width="1018.5" height="288" viewBox="0 0 1018.5 288" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M938.5 61h0"></path>
+<path d="M60 61h20"></path>
+<g>
+<path d="M80 61h0"></path>
+<path d="M918.5 61h0"></path>
+<g>
+<path d="M80 61h0"></path>
+<path d="M572.5 61h0"></path>
+<rect x="80" y="42" width="492.5" height="98" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M80 61h10"></path>
+<path d="M562.5 61h10"></path>
+<path d="M120 61h10"></path>
+<g class="terminal">
+<path d="M130 61h0"></path>
+<path d="M532.5 61h0"></path>
+<rect x="130" y="50" width="402.5" height="22" rx="10" ry="10"></rect>
+<text x="331.25" y="65">crookedness, faults, &#38; flaws of bodily action</text>
+</g>
+<path d="M532.5 61h10"></path>
+<path d="M120 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M130 91h0"></path>
+<path d="M532.5 91h0"></path>
+<rect x="130" y="80" width="402.5" height="22" rx="10" ry="10"></rect>
+<text x="331.25" y="95">crookedness, faults, &#38; flaws of verbal action</text>
+</g>
+<path d="M532.5 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M120 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M130 121h0"></path>
+<path d="M532.5 121h0"></path>
+<rect x="130" y="110" width="402.5" height="22" rx="10" ry="10"></rect>
+<text x="331.25" y="125">crookedness, faults, &#38; flaws of mental action</text>
+</g>
+<path d="M532.5 121a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 120 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="105" y="65" class="diagram-text">1+</text>
+<path d="M 542.5 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 549.5 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M80 31h0"></path>
+<path d="M181 31h0"></path>
+<text x="130.5" y="36" class="comment">not abandoned</text>
+</g>
+</g>
+<path d="M572.5 61h10"></path>
+<path d="M582.5 61h10"></path>
+<g class="terminal">
+<path d="M592.5 61h0"></path>
+<path d="M918.5 61h0"></path>
+<rect x="592.5" y="50" width="326" height="22" rx="10" ry="10"></rect>
+<text x="755.5" y="65">falls away from this Dhamma &#38; Vinaya</text>
+</g>
+</g>
+<path d="M918.5 61h20"></path>
+<path d="M60 61a10 10 0 0 1 10 10v108a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 189h4.25"></path>
+<path d="M914.25 189h4.25"></path>
+<g>
+<path d="M84.25 189h0"></path>
+<path d="M576.75 189h0"></path>
+<rect x="84.25" y="170" width="492.5" height="98" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M84.25 189h10"></path>
+<path d="M566.75 189h10"></path>
+<path d="M124.25 189h10"></path>
+<g class="terminal">
+<path d="M134.25 189h0"></path>
+<path d="M536.75 189h0"></path>
+<rect x="134.25" y="178" width="402.5" height="22" rx="10" ry="10"></rect>
+<text x="335.5" y="193">crookedness, faults, &#38; flaws of bodily action</text>
+</g>
+<path d="M536.75 189h10"></path>
+<path d="M124.25 189v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M134.25 219h0"></path>
+<path d="M536.75 219h0"></path>
+<rect x="134.25" y="208" width="402.5" height="22" rx="10" ry="10"></rect>
+<text x="335.5" y="223">crookedness, faults, &#38; flaws of verbal action</text>
+</g>
+<path d="M536.75 219a10 10 0 0 0 10 -10v-20"></path>
+<path d="M124.25 189v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M134.25 249h0"></path>
+<path d="M536.75 249h0"></path>
+<rect x="134.25" y="238" width="402.5" height="22" rx="10" ry="10"></rect>
+<text x="335.5" y="253">crookedness, faults, &#38; flaws of mental action</text>
+</g>
+<path d="M536.75 249a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 124.25 179 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="109.25" y="193" class="diagram-text">all</text>
+<path d="M 546.75 179 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 553.75 187 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M84.25 159h0"></path>
+<path d="M157.25 159h0"></path>
+<text x="120.75" y="164" class="comment">abandoned</text>
+</g>
+</g>
+<path d="M576.75 189h10"></path>
+<path d="M586.75 189h10"></path>
+<g class="terminal">
+<path d="M596.75 189h0"></path>
+<path d="M914.25 189h0"></path>
+<rect x="596.75" y="178" width="317.5" height="22" rx="10" ry="10"></rect>
+<text x="755.5" y="193">stands form in this Dhamma &#38; Vinaya</text>
+</g>
+</g>
+<path d="M918.5 189a10 10 0 0 0 10 -10v-108a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M938.5 61h10"></path>
+<path d="M948.5 61h10"></path>
+<g>
+<path d="M958.5 61h0"></path>
+<path d="M 958.5 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

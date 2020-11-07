@@ -25,6 +25,11 @@
 |[Bombast (AN 2:46)](./2/46/AN2_46.md)|discourse, deep in their meaning, transcendent, connected with emptiness, inappropriate attention. doesn't disect meaning, works of poets, artful in sound/expression, work of outsiders, appropriate attention, bombast, cross-questioning|
 |[Fools (AN 2:99)](./2/99/AN2_99.md)|kindness|
 |**[Hard to Find (AN 2:118)](./2/118/AN2_118.md)|kindness, gratitude, repays debt, merit|
+|[Voice (AN 2:123–124)](./2/123/AN2_123.md)|voice of another, inappropriate attention, wrong view, appropriate attention, right view|
+|[Characterized (by Action) (AN 3:2)](./3/2/AN3_2.md)|bodily misconduct, verbal misconduct, mental misconduct, fool, good bodily conduct, good mental conduct, good mental conduct, wise|
+|[The Chariot Maker (AN 3:15)](./3/15/AN3_15.md)|crookedness, faults, & flaws of bodily action, verbal, mental, not abandoned, falls away from this Dhamma & Vinaya, abandoned, stands form in this Dhamma & Vinaya|
+|[Sick People (AN 3:22)](./3/22/AN3_22.md)|hears the Dhamma, skillful qualities|
+|[To Ven. Ananda (AN 3:32)](./3/32/AN3_32.md)|pacification of all fabrications, relinquishing of all acquisitions, ending of craving, dispassion, cessation, unbinding, conceit obsession, awareness release, discernment release|
 
 Table: Anguttara Nikaya Causation Model catalog
 
