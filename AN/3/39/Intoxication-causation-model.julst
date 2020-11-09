@@ -1,0 +1,25 @@
+---
+id: AN 3.39 intoxication
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      1+(
+        "youth" |
+        "health" |
+        "life" |
+      ) 
+      | /"intoxicated with:"/
+    )
+    1+(
+      "bodily misconduct" |
+      "verbal misconduct" |
+      "mental misconduct" |
+    ) 
+    (
+      "reappears in the lower realm"
+      | /"after death"/
+    )
+  =]=

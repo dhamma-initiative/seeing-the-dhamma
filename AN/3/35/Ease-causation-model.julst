@@ -1,0 +1,23 @@
+---
+id: AN 3.35 ease
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      1+(
+        "greed" |
+        "aversion" |
+        "delusoin" |
+      ) 
+      ("dis-ease" | /"dwells in:"/)
+      |
+      all(
+        "non-greed" |
+        "non-aversion" |
+        "non-delusoin" |
+      ) 
+      ("ease" | /"dwells in:"/)
+    )
+  =]=

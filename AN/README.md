@@ -30,6 +30,11 @@
 |[The Chariot Maker (AN 3:15)](./3/15/AN3_15.md)|crookedness, faults, & flaws of bodily action, verbal, mental, not abandoned, falls away from this Dhamma & Vinaya, abandoned, stands form in this Dhamma & Vinaya|
 |[Sick People (AN 3:22)](./3/22/AN3_22.md)|hears the Dhamma, skillful qualities|
 |[To Ven. Ananda (AN 3:32)](./3/32/AN3_32.md)|pacification of all fabrications, relinquishing of all acquisitions, ending of craving, dispassion, cessation, unbinding, conceit obsession, awareness release, discernment release|
+|[To Ven. Sariputta (AN 3:33)](./3/33/AN3_33.md)|no conceit obsession, awareness release, discernment release, unbinding|
+|[Causes (AN 3:34)](./3/34/AN3_34.md)|greed, aversion, delusion, selfhood, action ripens, experiences fruit of ripening, non-greed, non-aversion, non-delusion|
+|[To Hatthaka (AN 3:35)](./3/35/AN3_35.md)|greed, aversion, delusion, dis-ease, non-greed, non-aversion, non-delusion, ease|
+|[Refinement (AN 3:39)](./3/39/AN3_39.md)|youth, health, life, bodily misconduct, verbal misconduct, mental misconduct, reappears in the lower realm|
+|[Governing Principles (AN 3:40)](./3/40/AN3_40.md)|sensual pleasures, wrong resolve, unskillful mental qualities, lazy & heedless, lax, confusion, bodily aroused, mentally scattered, mentally aroused, long term stress, persistence, mindfulness, bodily calm, mentally stilled, mental calm, abandons unskillful, abandons blameworthy, abandons that which does not lead to long term welfare, develops skillful, develops blameless, develops that which leads to long term welfare|
 
 Table: Anguttara Nikaya Causation Model catalog
 

@@ -1,0 +1,403 @@
+<svg class="tracks" width="1619" height="416" viewBox="0 0 1619 416" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 31h0"></path>
+<path d="M20 21v20m0 -10h20"></path>
+</g>
+<path d="M40 31h10"></path>
+<path d="M50 31h10"></path>
+<g>
+<path d="M60 31h0"></path>
+<path d="M1539 31h0"></path>
+<path d="M60 31h20"></path>
+<g>
+<path d="M80 31h340.25"></path>
+<path d="M1178.75 31h340.25"></path>
+<g>
+<path d="M420.25 31h0"></path>
+<path d="M739.75 31h0"></path>
+<path d="M450.25 31h10"></path>
+<g class="terminal">
+<path d="M460.25 31h42.5"></path>
+<path d="M667.25 31h42.5"></path>
+<rect x="502.75" y="20" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="585" y="35">sensual pleasures</text>
+</g>
+<path d="M709.75 31h10"></path>
+<path d="M450.25 31v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M460.25 61h59.5"></path>
+<path d="M650.25 61h59.5"></path>
+<rect x="519.75" y="50" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="585" y="65">wrong resolve</text>
+</g>
+<path d="M709.75 61a10 10 0 0 0 10 -10v-20"></path>
+<path d="M450.25 31v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M460.25 91h0"></path>
+<path d="M709.75 91h0"></path>
+<rect x="460.25" y="80" width="249.5" height="22" rx="10" ry="10"></rect>
+<text x="585" y="95">unskillful mental qualities</text>
+</g>
+<path d="M709.75 91a10 10 0 0 0 10 -10v-50"></path>
+<path d="M450.25 31v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M460.25 121h51"></path>
+<path d="M658.75 121h51"></path>
+<rect x="511.25" y="110" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="585" y="125">lazy &#38; heedless</text>
+</g>
+<path d="M709.75 121a10 10 0 0 0 10 -10v-80"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 450.25 21 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="435.25" y="35" class="diagram-text">1+</text>
+<path d="M 719.75 21 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 726.75 29 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M739.75 31h10"></path>
+<path d="M749.75 31h10"></path>
+<g>
+<path d="M759.75 31h0"></path>
+<path d="M1002.75 31h0"></path>
+<path d="M789.75 31h10"></path>
+<g class="terminal">
+<path d="M799.75 31h63.75"></path>
+<path d="M909 31h63.75"></path>
+<rect x="863.5" y="20" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="886.25" y="35">lax</text>
+</g>
+<path d="M972.75 31h10"></path>
+<path d="M789.75 31v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M799.75 61h38.25"></path>
+<path d="M934.5 61h38.25"></path>
+<rect x="838" y="50" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="886.25" y="65">confusion</text>
+</g>
+<path d="M972.75 61a10 10 0 0 0 10 -10v-20"></path>
+<path d="M789.75 31v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M799.75 91h17"></path>
+<path d="M955.75 91h17"></path>
+<rect x="816.75" y="80" width="139" height="22" rx="10" ry="10"></rect>
+<text x="886.25" y="95">bodily aroused</text>
+</g>
+<path d="M972.75 91a10 10 0 0 0 10 -10v-50"></path>
+<path d="M789.75 31v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M799.75 121h0"></path>
+<path d="M972.75 121h0"></path>
+<rect x="799.75" y="110" width="173" height="22" rx="10" ry="10"></rect>
+<text x="886.25" y="125">mentally scattered</text>
+</g>
+<path d="M972.75 121a10 10 0 0 0 10 -10v-80"></path>
+<path d="M789.75 31v110a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M799.75 151h8.5"></path>
+<path d="M964.25 151h8.5"></path>
+<rect x="808.25" y="140" width="156" height="22" rx="10" ry="10"></rect>
+<text x="886.25" y="155">mentally aroused</text>
+</g>
+<path d="M972.75 151a10 10 0 0 0 10 -10v-110"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 789.75 21 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="774.75" y="35" class="diagram-text">1+</text>
+<path d="M 982.75 21 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 989.75 29 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M1002.75 31h10"></path>
+<path d="M1012.75 31h10"></path>
+<g class="terminal">
+<path d="M1022.75 31h0"></path>
+<path d="M1178.75 31h0"></path>
+<rect x="1022.75" y="20" width="156" height="22" rx="10" ry="10"></rect>
+<text x="1100.75" y="35">long term stress</text>
+</g>
+</g>
+<path d="M1519 31h20"></path>
+<path d="M60 31a10 10 0 0 1 10 10v160a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 211h0"></path>
+<path d="M1519 211h0"></path>
+<g>
+<path d="M80 211h0"></path>
+<path d="M634 211h0"></path>
+<path d="M80 211h20"></path>
+<g>
+<path d="M100 211h164.5"></path>
+<path d="M449.5 211h164.5"></path>
+<rect x="264.5" y="192" width="185" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="terminal">
+<path d="M264.5 211h10.25"></path>
+<path d="M439.25 211h10.25"></path>
+<rect x="274.75" y="200" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="357" y="215">sensual pleasures</text>
+</g>
+<g class="comment">
+<path d="M264.5 181h0"></path>
+<path d="M449.5 181h0"></path>
+<text x="357" y="186" class="comment">reflecting not abandoned:</text>
+</g>
+</g>
+<path d="M614 211h20"></path>
+<path d="M80 211a10 10 0 0 1 10 10v18a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M100 249h0"></path>
+<path d="M614 249h0"></path>
+<path d="M130 249h10"></path>
+<g class="terminal">
+<path d="M140 249h156.75"></path>
+<path d="M427.25 249h156.75"></path>
+<rect x="296.75" y="238" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="362" y="253">wrong resolve</text>
+</g>
+<path d="M584 249h10"></path>
+<path d="M130 249v50a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M140 309h0"></path>
+<path d="M584 309h0"></path>
+<rect x="140" y="290" width="444" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="terminal">
+<path d="M140 309h97.25"></path>
+<path d="M486.75 309h97.25"></path>
+<rect x="237.25" y="298" width="249.5" height="22" rx="10" ry="10"></rect>
+<text x="362" y="313">unskillful mental qualities</text>
+</g>
+<g class="comment">
+<path d="M140 279h0"></path>
+<path d="M584 279h0"></path>
+<text x="362" y="284" class="comment">reflecting that there are contemplatives &#38; brahman reading my:</text>
+</g>
+</g>
+<path d="M584 309a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 130 239 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="115" y="253" class="diagram-text">all</text>
+<path d="M 594 239 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 601 247 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M614 249a10 10 0 0 0 10 -10v-18a10 10 0 0 1 10 -10"></path>
+<path d="M80 211a10 10 0 0 1 10 10v146a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M100 377h52.5"></path>
+<path d="M561.5 377h52.5"></path>
+<rect x="152.5" y="358" width="409" height="38" rx="10" ry="10" class="group-box"></rect>
+<g class="terminal">
+<path d="M152.5 377h130.75"></path>
+<path d="M430.75 377h130.75"></path>
+<rect x="283.25" y="366" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="357" y="381">lazy &#38; heedless</text>
+</g>
+<g class="comment">
+<path d="M152.5 347h0"></path>
+<path d="M561.5 347h0"></path>
+<text x="357" y="352" class="comment">reflecting that my learned companions know that I remain:</text>
+</g>
+</g>
+<path d="M614 377a10 10 0 0 0 10 -10v-146a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M634 211h10"></path>
+<path d="M644 211h10"></path>
+<g>
+<path d="M654 211h0"></path>
+<path d="M880 211h0"></path>
+<path d="M684 211h10"></path>
+<g class="terminal">
+<path d="M694 211h21.25"></path>
+<path d="M828.75 211h21.25"></path>
+<rect x="715.25" y="200" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="772" y="215">persistence</text>
+</g>
+<path d="M850 211h10"></path>
+<path d="M684 211v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M694 241h21.25"></path>
+<path d="M828.75 241h21.25"></path>
+<rect x="715.25" y="230" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="772" y="245">mindfulness</text>
+</g>
+<path d="M850 241a10 10 0 0 0 10 -10v-20"></path>
+<path d="M684 211v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M694 271h21.25"></path>
+<path d="M828.75 271h21.25"></path>
+<rect x="715.25" y="260" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="772" y="275">bodily calm</text>
+</g>
+<path d="M850 271a10 10 0 0 0 10 -10v-50"></path>
+<path d="M684 211v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M694 301h0"></path>
+<path d="M850 301h0"></path>
+<rect x="694" y="290" width="156" height="22" rx="10" ry="10"></rect>
+<text x="772" y="305">mentally stilled</text>
+</g>
+<path d="M850 301a10 10 0 0 0 10 -10v-80"></path>
+<path d="M684 211v110a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M694 331h21.25"></path>
+<path d="M828.75 331h21.25"></path>
+<rect x="715.25" y="320" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="772" y="335">mental calm</text>
+</g>
+<path d="M850 331a10 10 0 0 0 10 -10v-110"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 684 201 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="669" y="215" class="diagram-text">all</text>
+<path d="M 860 201 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 867 209 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M880 211h10"></path>
+<path d="M890 211h10"></path>
+<g>
+<path d="M900 211h0"></path>
+<path d="M1519 211h0"></path>
+<path d="M930 211h10"></path>
+<g>
+<path d="M940 211h0"></path>
+<path d="M1489 211h0"></path>
+<path d="M970 211h10"></path>
+<g class="terminal">
+<path d="M980 211h148.75"></path>
+<path d="M1310.25 211h148.75"></path>
+<rect x="1128.75" y="200" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="1219.5" y="215">abandons unskillful</text>
+</g>
+<path d="M1459 211h10"></path>
+<path d="M970 211v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M980 241h144.5"></path>
+<path d="M1314.5 241h144.5"></path>
+<rect x="1124.5" y="230" width="190" height="22" rx="10" ry="10"></rect>
+<text x="1219.5" y="245">abandons blameworthy</text>
+</g>
+<path d="M1459 241a10 10 0 0 0 10 -10v-20"></path>
+<path d="M970 211v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M980 271h0"></path>
+<path d="M1459 271h0"></path>
+<rect x="980" y="260" width="479" height="22" rx="10" ry="10"></rect>
+<text x="1219.5" y="275">abandons that which does not lead to long term welfare</text>
+</g>
+<path d="M1459 271a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 970 201 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="955" y="215" class="diagram-text">all</text>
+<path d="M 1469 201 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 1476 209 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M1489 211h10"></path>
+<path d="M930 211v80a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M940 301h34"></path>
+<path d="M1455 301h34"></path>
+<path d="M1004 301h10"></path>
+<g class="terminal">
+<path d="M1014 301h123.25"></path>
+<path d="M1301.75 301h123.25"></path>
+<rect x="1137.25" y="290" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="1219.5" y="305">develops skillful</text>
+</g>
+<path d="M1425 301h10"></path>
+<path d="M1004 301v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M1014 331h119"></path>
+<path d="M1306 331h119"></path>
+<rect x="1133" y="320" width="173" height="22" rx="10" ry="10"></rect>
+<text x="1219.5" y="335">develops blameless</text>
+</g>
+<path d="M1425 331a10 10 0 0 0 10 -10v-20"></path>
+<path d="M1004 301v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M1014 361h0"></path>
+<path d="M1425 361h0"></path>
+<rect x="1014" y="350" width="411" height="22" rx="10" ry="10"></rect>
+<text x="1219.5" y="365">develops that which leads to long term welfare</text>
+</g>
+<path d="M1425 361a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 1004 291 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="989" y="305" class="diagram-text">all</text>
+<path d="M 1435 291 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 1442 299 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M1489 301a10 10 0 0 0 10 -10v-80"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 930 201 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="915" y="215" class="diagram-text">all</text>
+<path d="M 1499 201 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 1506 209 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+</g>
+<path d="M1519 211a10 10 0 0 0 10 -10v-160a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M1539 31h10"></path>
+<path d="M1549 31h10"></path>
+<g>
+<path d="M1559 31h0"></path>
+<path d="M 1559 31 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

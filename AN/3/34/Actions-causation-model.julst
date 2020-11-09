@@ -1,0 +1,25 @@
+---
+id: AN 3.34 Actions
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      1+(
+        "greed" |
+        "aversion" |
+        "delusoin" |
+      ) 
+      ("selfhood" | /"accumulates"/)
+      "action ripens"
+      "experiences its fruit ripening"
+      |
+      all(
+        "non-greed" |
+        "non-aversion" |
+        "non-delusoin" |
+      ) 
+      /"no future arising"/
+    )
+  =]=

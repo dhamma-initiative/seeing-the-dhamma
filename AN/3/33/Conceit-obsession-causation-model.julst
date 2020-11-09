@@ -1,0 +1,17 @@
+---
+id: AN 3.33 Conceit obsession
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    1+[:
+      "no conceit obsession"
+      | /"body & all external themes"/
+    ]
+    all(:
+      "awareness release" |
+      "discernment release" |
+    )
+    "unbinding"
+  =]=

@@ -19,7 +19,7 @@ notation: |
       | /"percipient of:"/
     )
     1+[:
-      "conceit obsession"
+      "no conceit obsession"
       | /"body & all external themes"/
     ]
     all(:

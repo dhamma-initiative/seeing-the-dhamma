@@ -1,0 +1,61 @@
+---
+id: AN 3.40 governing principles
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      1+(
+        "sensual pleasures" |
+        "wrong resolve" |
+        "unskillful mental qualities" |
+        "lazy & heedless" |
+      )
+      1+(
+        "lax" |
+        "confusion" |
+        "bodily aroused" |
+        "mentally scattered" |
+        "mentally aroused" |
+      )
+      "long term stress"
+      |
+      ^(
+        (
+          "sensual pleasures"
+          | /"reflecting not abandoned:"/
+        ) |
+        all(
+          "wrong resolve" |
+          (
+            "unskillful mental qualities"
+            | /"reflecting that there are contemplatives & brahman reading my:"/
+          ) 
+        ) |
+        (
+          "lazy & heedless"
+            | /"reflecting that my learned companions know that I remain:"/
+        ) 
+      )
+      all(
+        "persistence" |
+        "mindfulness" |
+        "bodily calm" |
+        "mentally stilled" |
+        "mental calm" |
+      )
+      all(
+        all(
+          "abandons unskillful" |
+          "abandons blameworthy" |
+          "abandons that which does not lead to long term welfare"
+        ) |
+        all(
+          "develops skillful" |
+          "develops blameless" |
+          "develops that which leads to long term welfare"
+        ) |
+      ) 
+    )
+  =]=
