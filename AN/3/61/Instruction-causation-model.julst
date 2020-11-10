@@ -1,0 +1,29 @@
+---
+id: AN 3.52 restraint
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(:
+      "sacrifice" 
+      1+(
+        "complication" |
+        "violence" |
+        "rewardless"
+      )
+      | 
+      "going forth" 
+      1+(
+        "psychic power" |
+        "telepathy" |
+        "instruction"
+        1+(
+          "simplicity" |
+          "harmlessness" |
+          "reward"
+        )
+      )
+      |
+    )
+  =]=

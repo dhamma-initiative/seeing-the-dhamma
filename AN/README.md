@@ -35,6 +35,12 @@
 |[To Hatthaka (AN 3:35)](./3/35/AN3_35.md)|greed, aversion, delusion, dis-ease, non-greed, non-aversion, non-delusion, ease|
 |[Refinement (AN 3:39)](./3/39/AN3_39.md)|youth, health, life, bodily misconduct, verbal misconduct, mental misconduct, reappears in the lower realm|
 |[Governing Principles (AN 3:40)](./3/40/AN3_40.md)|sensual pleasures, wrong resolve, unskillful mental qualities, lazy & heedless, lax, confusion, bodily aroused, mentally scattered, mentally aroused, long term stress, persistence, mindfulness, bodily calm, mentally stilled, mental calm, abandons unskillful, abandons blameworthy, abandons that which does not lead to long term welfare, develops skillful, develops blameless, develops that which leads to long term welfare|
+|**[Fabricated (AN 3:47–48)](./3/47/AN3_47.md)|arising, passing away, alteration, stress, no arising, no passing away, no alteration|
+|[A Mountain (AN 3:49)](./3/49/AN3_49.md)|admirable friendship, conviction, virtue, discernment|
+|[Two People (1) (AN 3:52)](./3/52/AN3_52.md)|body, speech, mind, restraint, merit, aging, illness, death|
+|[Two People (2) (AN 3:53)](./3/53/AN3_53.md)|body, speech, mind, restraint, merit, aging, illness, death|
+|[To Vaccha (on Giving) (AN 3:58)](./3/58/AN3_58.md)|gift given, abandoned, sensual desire, ill will, sloth & drowsiness, restlessness & anxiety, uncertainty, endowed, virtue, concentration, discernment, release, knowledge & vision of release, great fruit|
+|[To Sangarava (AN 3:61)](./3/61/AN3_61.md)|sacrifice, complication, violence, rewardless, going forth, psychic power, telepathy, instruction, simplicity harmlessness, reward|
 
 Table: Anguttara Nikaya Causation Model catalog
 

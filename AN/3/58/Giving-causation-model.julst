@@ -1,0 +1,45 @@
+---
+id: AN 3.52 restraint
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  ^(
+  =[=
+    "prevents a gift being given"
+    all(
+      "obstruction of merit for the giver" |
+      "obstruction of gain for the recipient" |
+      "obstruction of merit for oneself" |
+    )
+  =]=
+  |
+  =[=
+    all(
+      "gift given"
+      |
+      (
+        all(
+          "sensual desire" |
+          "ill will" |
+          "sloth & drowsiness" |
+          "restlessness & anxiety" |
+          "uncertainty" |
+        )
+        | /"recipient has abandoned the five hindrances:"/
+      )
+      |
+      (
+        all(
+          "virtue" |
+          "concentration" |
+          "discernment" |
+          "release" |
+          "knowledge & vision of release" |
+        )
+        | /"recipient is endowed with no fetters & consumation in:"/
+      )
+    )
+    "great fruit"
+  =]=
+  )

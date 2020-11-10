@@ -1,0 +1,14 @@
+---
+id: AN 3.49 admirable friendship
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    "admirable friendship"
+    all(
+      "conviction" |
+      "virtue" |
+      "discernment" |
+    )
+  =]=

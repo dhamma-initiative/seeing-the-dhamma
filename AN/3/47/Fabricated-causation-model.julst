@@ -1,0 +1,28 @@
+---
+id: AN 3.47 fabricated
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^(
+      (
+        1+(
+          "arising" |
+          "passing away" |
+          "alteration" |
+        )
+        | /"fabricated discerned as:"/
+      )
+      "stress"
+      |
+      (
+        1+(
+          "no arising" |
+          "no passing away" |
+          "no alteration" |
+        )
+        | /"unfabricated discerned as:"/
+      )
+    )
+  =]=
